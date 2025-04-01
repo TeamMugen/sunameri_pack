@@ -1,0 +1,6 @@
+{
+	"parent": "item/vehickes/1a/prius/base",
+	"textures": {
+		"texture": "item/vehicles/1a/prius/ye"
+	}
+}

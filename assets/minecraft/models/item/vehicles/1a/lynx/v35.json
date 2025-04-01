@@ -1,0 +1,6 @@
+{
+	"parent": "item/vehicles/1a/lynx/base",
+	"textures": {
+		"voxels_atlas": "item/vehicles/1a/lynx/wh"
+	}
+}
