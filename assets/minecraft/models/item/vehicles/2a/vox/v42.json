@@ -1,0 +1,6 @@
+{
+	"parent": "item/vehicles/2a/vox/base",
+	"textures": {
+		"voxels_atlas": "item/vehicles/2a/vox/gr"
+	}
+}
