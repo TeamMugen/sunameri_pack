@@ -1,0 +1,6 @@
+{
+	"parent": "item/vehicles/3a/cube/base",
+	"textures": {
+		"voxels_atlas": "item/vehicles/3a/cube/bw"
+	}
+}
