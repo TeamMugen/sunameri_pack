@@ -67,21 +67,21 @@
         "threshold": 0.027528809218950064,
         "model": {
           "type": "model",
-          "model": "item/vehicles/v43"
+          "model": "item/vehicles/3a/cube/v43"
         }
       },
       {
         "threshold": 0.02816901408450704,
         "model": {
           "type": "model",
-          "model": "item/vehicles/v44"
+          "model": "item/vehicles/3a/cube/v44"
         }
       },
       {
         "threshold": 0.028809218950064018,
         "model": {
           "type": "model",
-          "model": "item/vehicles/v45"
+          "model": "item/vehicles/3a/cube/v45"
         }
       },
       {
