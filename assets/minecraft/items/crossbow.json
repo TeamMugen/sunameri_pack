@@ -1,0 +1,419 @@
+{
+    "hand_animation_on_swap": false,
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/crossbow"
+        },
+        "entries": [
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m4cqb_mdd"
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/scarh_mod"
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/scarl_mdd3"
+                }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/hk433_mdd"
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/famas_f1_mdd"
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ak105_mdd"
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ak103_mdd2"
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/an94_mdd2"
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/cz3a1_mdd"
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/vector45_mdd"
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/mp5a5_mdd"
+                }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/p90_mdd"
+                }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/mp7a2_black_mdd"
+                }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ump45_mod"
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/apc9_mdd"
+                }
+            },
+            {
+                "threshold": 33,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m590moss_mdd"
+                }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m870mcs_mdd"
+                }
+            },
+            {
+                "threshold": 35,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m1014_mdd"
+                }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/dp12_mdd"
+                }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/origin12_sbs2"
+                }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/rem700_spr208mdd"
+                }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m1a_socom16_mdd"
+                }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/sks_sf_mdd2"
+                }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/sr25_er"
+                }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/sa58_mdd"
+                }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m98b"
+                }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m200"
+                }
+            },
+            {
+                "threshold": 45,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/rem700_modx_mdd"
+                }
+            },
+            {
+                "threshold": 46,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/mg3_mdd"
+                }
+            },
+            {
+                "threshold": 47,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/pkp_mdd"
+                }
+            },
+            {
+                "threshold": 48,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/negev_mdd"
+                }
+            },
+            {
+                "threshold": 49,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m249_saw_mdd"
+                }
+            },
+            {
+                "threshold": 50,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/deagle"
+                }
+            },
+            {
+                "threshold": 51,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/glock17tan_light"
+                }
+            },
+            {
+                "threshold": 52,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m500"
+                }
+            },
+            {
+                "threshold": 53,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/p320"
+                }
+            },
+            {
+                "threshold": 54,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/trp_mdd0"
+                }
+            },
+            {
+                "threshold": 55,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/glock17tan_light"
+                }
+            },
+            {
+                "threshold": 56,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/p226_mdd"
+                }
+            },
+            {
+                "threshold": 57,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/rpg7_mdd"
+                }
+            },
+            {
+                "threshold": 58,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/smaw_1"
+                }
+            },
+            {
+                "threshold": 59,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/fim92_1"
+                }
+            },
+            {
+                "threshold": 60,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/carl_gustaf_m4"
+                }
+            },
+            {
+                "threshold": 61,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/brena2_mdd"
+                }
+            },
+            {
+                "threshold": 62,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/mcx_carbine_mdd2"
+                }
+            },
+            {
+                "threshold": 63,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/g36a2_mdd"
+                }
+            },
+            {
+                "threshold": 64,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ump9_mdd"
+                }
+            },
+            {
+                "threshold": 65,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m320"
+                }
+            },
+            {
+                "threshold": 66,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/mgl_mdd"
+                }
+            },
+            {
+                "threshold": 67,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/aa12_mdd"
+                }
+            },
+            {
+                "threshold": 68,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/vepr12_mdd"
+                }
+            },
+            {
+                "threshold": 10018,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m4sopmod2_mdd"
+                }
+            },
+            {
+                "threshold": 10023,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ak105_zenit_mdd2"
+                }
+            },
+            {
+                "threshold": 10024,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ak103_zenit_mdd"
+                }
+            },
+            {
+                "threshold": 20018,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/mk18_mdd2"
+                }
+            },
+            {
+                "threshold": 20023,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ak12_mdd1"
+                }
+            },
+            {
+                "threshold": 20024,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ak15_mdd1"
+                }
+            },
+            {
+                "threshold": 30018,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m4_urg1_mdd"
+                }
+            }
+        ]
+    }
+}
