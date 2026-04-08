@@ -88,28 +88,28 @@
         "threshold": 0.029449423815620997,
         "model": {
           "type": "model",
-          "model": "item/vehicles/4a/vostok/v46"
+          "model": "item/vehicles/v46"
         }
       },
       {
         "threshold": 0.030089628681177975,
         "model": {
           "type": "model",
-          "model": "item/vehicles/4a/vostok/v47"
+          "model": "item/vehicles/v47"
         }
       },
       {
         "threshold": 0.030729833546734954,
         "model": {
           "type": "model",
-          "model": "item/vehicles/4a/vostok/v48"
+          "model": "item/vehicles/v48"
         }
       },
       {
         "threshold": 0.03137003841229193,
         "model": {
           "type": "model",
-          "model": "item/vehicles/4a/vostok_slavedt/v49"
+          "model": "item/vehicles/v49"
         }
       },
       {
