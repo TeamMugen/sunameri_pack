@@ -1,8 +1,11 @@
 {
 	"__comment": "Designed by ExtremeCat_ with Cubik Studio - https://cubik.studio",
+<<<<<<< HEAD
+=======
 	"textures": {
 		"voxels_atlas": "blocks/voxels_atlas"
 	},
+>>>>>>> 9e0dba0eb137887e2cc6c4d8e07e4783aa693ee1
 	"elements": [ 	 
 		{
 			"__comment": "Voxels",
