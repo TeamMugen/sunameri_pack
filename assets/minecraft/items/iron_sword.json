@@ -13,7 +13,111 @@
       { "threshold": 6, "model": { "type": "minecraft:model", "model": "minecraft:item/melee/knife1" } },
       { "threshold": 7, "model": { "type": "minecraft:model", "model": "minecraft:item/melee/knife2" } },
       { "threshold": 45, "model": { "type": "minecraft:model", "model": "minecraft:item/melee/katana_blk" } },
-      { "threshold": 46, "model": { "type": "minecraft:model", "model": "minecraft:item/melee/katana_red" } }
+      {
+        "threshold": 46,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/melee/katana_red"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/melee/basebat"
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/melee/bayonet6h5"
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/melee/d2extreme"
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/melee/deadblow"
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/melee/dmm_rebel"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/melee/erfulcrum"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/melee/freeman_larp"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/melee/ka_tomahawk"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/melee/mbb_m2"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/melee/mpl50"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/melee/nightstick"
+        }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/melee/sp8_sm"
+        }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/melee/uvsr_taiga1"
+        }
+      },
+      {
+        "threshold": 60,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/melee/x7_axe"
+        }
+      }
     ]
   }
 }

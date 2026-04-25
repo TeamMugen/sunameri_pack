@@ -1,0 +1,39 @@
+{
+	"parent": "item/mw/fn57_blk",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [
+				90,
+				3,
+				90
+			],
+			"translation": [
+				-10,
+				7.25,
+				2.5
+			],
+			"scale": [
+				0.8,
+				0.8,
+				0.8
+			]
+		},
+		"firstperson_lefthand": {
+			"rotation": [
+				90,
+				3,
+				90
+			],
+			"translation": [
+				-11,
+				7.25,
+				2.75
+			],
+			"scale": [
+				-1,
+				1,
+				1
+			]
+		}
+	}
+}

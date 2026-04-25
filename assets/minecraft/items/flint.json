@@ -64,6 +64,7 @@
       { "threshold": 331, "model": { "type": "model", "model": "item/ammo/408cheytacbullet" } },
       { "threshold": 332, "model": { "type": "model", "model": "item/ammo/84mm" } },
       { "threshold": 333, "model": { "type": "model", "model": "item/ammo/fim92_missile" } },
+      { "threshold": 334, "model": { "type": "model", "model": "item/ammo/23x75shell" } },
       { "threshold": 1001, "model": { "type": "model", "model": "item/reticles/nocross" } },
       { "threshold": 1002, "model": { "type": "model", "model": "item/reticles/nocross" } },
       { "threshold": 1003, "model": { "type": "model", "model": "item/reticles/nocross" } },

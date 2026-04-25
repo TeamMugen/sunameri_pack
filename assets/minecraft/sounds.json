@@ -5243,5 +5243,1209 @@
         "sounds": [
             "1mono/mw2019reload/mw2019aa12_rel2"
         ]
+    },
+    "mw2reload.mw2hk416_rel1": {
+        "category": "master",
+        "sounds": [
+            "mw2reload/mw2hk416_rel1"
+        ]
+    },
+    "mw2reload.mw2hk416_rel2": {
+        "category": "master",
+        "sounds": [
+            "mw2reload/mw2hk416_rel2"
+        ]
+    },
+    "mw2reload.mw2saiga12kfa_rel2": {
+        "category": "master",
+        "sounds": [
+            "mw2reload/mw2saiga12kfa_rel2"
+        ]
+    },
+    "mw2reload.mw2saiga12kfa_rel1": {
+        "category": "master",
+        "sounds": [
+            "mw2reload/mw2saiga12kfa_rel1"
+        ]
+    },
+    "mono.mw2reload.mw2hk416_rel1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2reload/mw2hk416_rel1"
+        ]
+    },
+    "mono.mw2reload.mw2hk416_rel2": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2reload/mw2hk416_rel2"
+        ]
+    },
+    "mono.mw2reload.mw2saiga12kfa_rel2": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2reload/mw2saiga12kfa_rel2"
+        ]
+    },
+    "mono.mw2reload.mw2saiga12kfa_rel1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2reload/mw2saiga12kfa_rel1"
+        ]
+    },
+    "mw2019reload.mw2019rem700bolt1": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019rem700bolt1"
+        ]
+    },
+    "mw2019reload.mw2019rem700bolt2": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019rem700bolt2"
+        ]
+    },
+    "mw2019reload.mw2019ax50rel": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019ax50rel_1",
+            "mw2019reload/mw2019ax50rel_2",
+            "mw2019reload/mw2019ax50rel_3"
+        ]
+    },
+    "mw2019reload.mw2019rem700bolt3b": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019rem700bolt3b"
+        ]
+    },
+    "mw2019reload.mw2019rem700bolt3a": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019rem700bolt3a"
+        ]
+    },
+    "mw2019reload.mw2019rem700bolt4b": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019rem700bolt4b"
+        ]
+    },
+    "mw2019reload.mw2019rem700bolt4a": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019rem700bolt4a"
+        ]
+    },
+    "mw2019reload.mw2019ax50rel_1": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019ax50rel_1"
+        ]
+    },
+    "mw2019reload.mw2019ax50rel_2": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019ax50rel_2"
+        ]
+    },
+    "mw2019reload.mw2019ax50rel_3": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019ax50rel_3"
+        ]
+    },
+    "mw2019reload.mw2019m9a3_rel1": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019m9a3_rel1"
+        ]
+    },
+    "mw2019reload.mw2019m82_rel1": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019m82_rel1"
+        ]
+    },
+    "mw2019reload.mw2019m9a3_rel2": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019m9a3_rel2"
+        ]
+    },
+    "mw2019reload.mw2019m82_rel2": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019m82_rel2"
+        ]
+    },
+    "mw2019reload.mw2019makalov_rel3": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019makalov_rel3"
+        ]
+    },
+    "mw2019reload.mw2019makalov_rel2": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019makalov_rel2"
+        ]
+    },
+    "mw2019reload.mw2019makalov_rel1": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019makalov_rel1"
+        ]
+    },
+    "mw2019reload.mw2019m60_rel1": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019m60_rel1"
+        ]
+    },
+    "mw2019reload.mw2019m60_rel2": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019m60_rel2"
+        ]
+    },
+    "mw2019reload.mw2019python_rel1": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019python_rel1"
+        ]
+    },
+    "mw2019reload.mw2019shak12_rel2": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019shak12_rel2"
+        ]
+    },
+    "mw2019reload.mw2019shak12_rel1": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019shak12_rel1"
+        ]
+    },
+    "mono.mw2019reload.mw2019rem700bolt1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019rem700bolt1"
+        ]
+    },
+    "mono.mw2019reload.mw2019rem700bolt2": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019rem700bolt2"
+        ]
+    },
+    "mono.mw2019reload.mw2019ax50rel": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019ax50rel_1",
+            "1mono/mw2019reload/mw2019ax50rel_2",
+            "1mono/mw2019reload/mw2019ax50rel_3"
+        ]
+    },
+    "mono.mw2019reload.mw2019rem700bolt3b": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019rem700bolt3b"
+        ]
+    },
+    "mono.mw2019reload.mw2019rem700bolt3a": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019rem700bolt3a"
+        ]
+    },
+    "mono.mw2019reload.mw2019rem700bolt4b": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019rem700bolt4b"
+        ]
+    },
+    "mono.mw2019reload.mw2019rem700bolt4a": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019rem700bolt4a"
+        ]
+    },
+    "mono.mw2019reload.mw2019ax50rel_1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019ax50rel_1"
+        ]
+    },
+    "mono.mw2019reload.mw2019ax50rel_2": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019ax50rel_2"
+        ]
+    },
+    "mono.mw2019reload.mw2019ax50rel_3": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019ax50rel_3"
+        ]
+    },
+    "mono.mw2019reload.mw2019asval_rel2": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019asval_rel2"
+        ]
+    },
+    "mono.mw2019reload.mw2019m9a3_rel1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019m9a3_rel1"
+        ]
+    },
+    "mono.mw2019reload.mw2019m82_rel1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019m82_rel1"
+        ]
+    },
+    "mono.mw2019reload.mw2019asval_rel1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019asval_rel1"
+        ]
+    },
+    "mono.mw2019reload.mw2019m9a3_rel2": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019m9a3_rel2"
+        ]
+    },
+    "mono.mw2019reload.mw2019m82_rel2": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019m82_rel2"
+        ]
+    },
+    "mono.mw2019reload.mw2019makalov_rel3": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019makalov_rel3"
+        ]
+    },
+    "mono.mw2019reload.mw2019makalov_rel2": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019makalov_rel2"
+        ]
+    },
+    "mono.mw2019reload.mw2019makalov_rel1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019makalov_rel1"
+        ]
+    },
+    "mono.mw2019reload.mw2019m60_rel1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019m60_rel1"
+        ]
+    },
+    "mono.mw2019reload.mw2019m60_rel2": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019m60_rel2"
+        ]
+    },
+    "mono.mw2019reload.mw2019python_rel1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019python_rel1"
+        ]
+    },
+    "mono.mw2019reload.mw2019shak12_rel2": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019shak12_rel2"
+        ]
+    },
+    "mono.mw2019reload.mw2019shak12_rel1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019shak12_rel1"
+        ]
+    },
+    "mw2shoot.mw2hk416": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2hk416_1"
+        ]
+    },
+    "mw2shoot.mw2ak105in": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2ak105_2in"
+        ]
+    },
+    "mw2shoot.mw2saiga12kfa": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2saiga12kfa_1"
+        ]
+    },
+    "mw2shoot.mw2saiga12kfain": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2saiga12kfa_1in"
+        ]
+    },
+    "mw2shoot.mw2ak105": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2ak105_2"
+        ]
+    },
+    "mw2shoot.mw2hk416in": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2hk416_1in"
+        ]
+    },
+    "mw2shoot.mw2ak105_2": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2ak105_2"
+        ]
+    },
+    "mw2shoot.mw2ak105_2in": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2ak105_2in"
+        ]
+    },
+    "mw2shoot.mw2hk416_1": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2hk416_1"
+        ]
+    },
+    "mw2shoot.mw2hk416_1in": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2hk416_1in"
+        ]
+    },
+    "mw2shoot.mw2saiga12kfa_1": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2saiga12kfa_1"
+        ]
+    },
+    "mw2shoot.mw2saiga12kfa_1in": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2saiga12kfa_1in"
+        ]
+    },
+    "mw2shoot.mw2scarl_4": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2scarl_4"
+        ]
+    },
+    "mw2shoot.mw2scarl_4in": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2scarl_4in"
+        ]
+    },
+    "mono.mw2shoot.mw2hk416": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2hk416_1"
+        ]
+    },
+    "mono.mw2shoot.mw2ak105in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2ak105_2in"
+        ]
+    },
+    "mono.mw2shoot.mw2saiga12kfa": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2saiga12kfa_1"
+        ]
+    },
+    "mono.mw2shoot.mw2saiga12kfain": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2saiga12kfa_1in"
+        ]
+    },
+    "mono.mw2shoot.mw2ak105": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2ak105_2"
+        ]
+    },
+    "mono.mw2shoot.mw2hk416in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2hk416_1in"
+        ]
+    },
+    "mono.mw2shoot.mw2ak105_2": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2ak105_2"
+        ]
+    },
+    "mono.mw2shoot.mw2ak105_2in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2ak105_2in"
+        ]
+    },
+    "mono.mw2shoot.mw2hk416_1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2hk416_1"
+        ]
+    },
+    "mono.mw2shoot.mw2hk416_1in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2hk416_1in"
+        ]
+    },
+    "mono.mw2shoot.mw2saiga12kfa_1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2saiga12kfa_1"
+        ]
+    },
+    "mono.mw2shoot.mw2saiga12kfa_1in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2saiga12kfa_1in"
+        ]
+    },
+    "mono.mw2shoot.mw2scarl_4": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2scarl_4"
+        ]
+    },
+    "mono.mw2shoot.mw2scarl_4in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2scarl_4in"
+        ]
+    },
+    "mw2019shoot.mw2019python": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019python_1"
+        ]
+    },
+    "mw2019shoot.mw2019ax50": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019ax50_1"
+        ]
+    },
+    "mw2019shoot.mw2019rem700in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019rem700_1in"
+        ]
+    },
+    "mw2019shoot.mw2019makalov": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019makalov_1"
+        ]
+    },
+    "mw2019shoot.mw2019svdin": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019svd_1in"
+        ]
+    },
+    "mw2019shoot.mw2019svd": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019svd_1"
+        ]
+    },
+    "mw2019shoot.mw2019shak12": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019shak12_1"
+        ]
+    },
+    "mw2019shoot.mw2019m82in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019m82_1in"
+        ]
+    },
+    "mw2019shoot.mw2019shak12in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019shak12_1in"
+        ]
+    },
+    "mw2019shoot.mw2019makalovin": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019makalov_1in"
+        ]
+    },
+    "mw2019shoot.mw2019pythonin": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019python_1in"
+        ]
+    },
+    "mw2019shoot.mw2019m9a3": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019m9a3_1"
+        ]
+    },
+    "mw2019shoot.mw2019an94in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019an94_4in"
+        ]
+    },
+    "mw2019shoot.mw2019m82": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019m82_1"
+        ]
+    },
+    "mw2019shoot.mw2019m9a3in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019m9a3_1in"
+        ]
+    },
+    "mw2019shoot.mw2019m60in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019m60_1in"
+        ]
+    },
+    "mw2019shoot.mw2019rem700": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019rem700_1"
+        ]
+    },
+    "mw2019shoot.mw2019ax50in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019ax50_1in"
+        ]
+    },
+    "mw2019shoot.mw2019m60": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019m60_1"
+        ]
+    },
+    "mw2019shoot.mw2019an94_4": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019an94_4"
+        ]
+    },
+    "mw2019shoot.mw2019an94_4in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019an94_4in"
+        ]
+    },
+    "mw2019shoot.mw2019ax50_1": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019ax50_1"
+        ]
+    },
+    "mw2019shoot.mw2019ax50_1in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019ax50_1in"
+        ]
+    },
+    "mw2019shoot.mw2019m60_1": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019m60_1"
+        ]
+    },
+    "mw2019shoot.mw2019m60_1in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019m60_1in"
+        ]
+    },
+    "mw2019shoot.mw2019m82_1": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019m82_1"
+        ]
+    },
+    "mw2019shoot.mw2019m82_1in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019m82_1in"
+        ]
+    },
+    "mw2019shoot.mw2019m9a3_1": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019m9a3_1"
+        ]
+    },
+    "mw2019shoot.mw2019m9a3_1in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019m9a3_1in"
+        ]
+    },
+    "mw2019shoot.mw2019makalov_1": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019makalov_1"
+        ]
+    },
+    "mw2019shoot.mw2019makalov_1in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019makalov_1in"
+        ]
+    },
+    "mw2019shoot.mw2019python_1": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019python_1"
+        ]
+    },
+    "mw2019shoot.mw2019python_1in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019python_1in"
+        ]
+    },
+    "mw2019shoot.mw2019rem700_1": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019rem700_1"
+        ]
+    },
+    "mw2019shoot.mw2019rem700_1in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019rem700_1in"
+        ]
+    },
+    "mw2019shoot.mw2019shak12_1": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019shak12_1"
+        ]
+    },
+    "mw2019shoot.mw2019shak12_1in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019shak12_1in"
+        ]
+    },
+    "mw2019shoot.mw2019svd_1": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019svd_1"
+        ]
+    },
+    "mw2019shoot.mw2019svd_1in": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/mw2019svd_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019python": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019python_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019ax50": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019ax50_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019rem700in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019rem700_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019makalov": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019makalov_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019svdin": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019svd_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019svd": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019svd_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019shak12": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019shak12_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019m82in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019m82_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019shak12in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019shak12_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019makalovin": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019makalov_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019pythonin": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019python_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019m9a3": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019m9a3_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019an94in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019an94_4in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019m82": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019m82_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019m9a3in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019m9a3_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019m60in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019m60_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019rem700": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019rem700_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019ax50in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019ax50_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019m60": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019m60_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019an94_4": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019an94_4"
+        ]
+    },
+    "mono.mw2019shoot.mw2019an94_4in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019an94_4in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019ax50_1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019ax50_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019ax50_1in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019ax50_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019m60_1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019m60_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019m60_1in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019m60_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019m82_1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019m82_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019m82_1in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019m82_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019m9a3_1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019m9a3_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019m9a3_1in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019m9a3_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019makalov_1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019makalov_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019makalov_1in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019makalov_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019python_1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019python_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019python_1in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019python_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019rem700_1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019rem700_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019rem700_1in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019rem700_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019shak12_1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019shak12_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019shak12_1in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019shak12_1in"
+        ]
+    },
+    "mono.mw2019shoot.mw2019svd_1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019svd_1"
+        ]
+    },
+    "mono.mw2019shoot.mw2019svd_1in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/mw2019svd_1in"
+        ]
+    },
+    "mw2reload.mw2honey_rel1": {
+        "category": "master",
+        "sounds": [
+            "mw2reload/mw2honey_rel1"
+        ]
+    },
+    "mw2reload.mw2honey_rel2": {
+        "category": "master",
+        "sounds": [
+            "mw2reload/mw2honey_rel2"
+        ]
+    },
+    "mono.mw2reload.mw2honey_rel1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2reload/mw2honey_rel1"
+        ]
+    },
+    "mono.mw2reload.mw2honey_rel2": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2reload/mw2honey_rel2"
+        ]
+    },
+    "mw2shoot.mw2honeyin": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2honey_1in"
+        ]
+    },
+    "mw2shoot.mw2honey": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2honey_1"
+        ]
+    },
+    "mw2shoot.mw2honey_1": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2honey_1"
+        ]
+    },
+    "mw2shoot.mw2honey_1in": {
+        "category": "master",
+        "sounds": [
+            "mw2shoot/mw2honey_1in"
+        ]
+    },
+    "mono.mw2shoot.mw2honeyin": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2honey_1in"
+        ]
+    },
+    "mono.mw2shoot.mw2honey": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2honey_1"
+        ]
+    },
+    "mono.mw2shoot.mw2honey_1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2honey_1"
+        ]
+    },
+    "mono.mw2shoot.mw2honey_1in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2shoot/mw2honey_1in"
+        ]
+    },
+    "mw2019reload.mw2019rem700_rel2": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019rem700_rel2"
+        ]
+    },
+    "mw2019reload.mw2019rem700_rel1": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019rem700_rel1"
+        ]
+    },
+    "mono.mw2019reload.mw2019rem700_rel2": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019rem700_rel2"
+        ]
+    },
+    "mono.mw2019reload.mw2019rem700_rel1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019rem700_rel1"
+        ]
+    },
+    "mw2019shoot.hecate": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/hecate"
+        ]
+    },
+    "mw2019shoot.hecatein": {
+        "category": "master",
+        "sounds": [
+            "mw2019shoot/hecatein"
+        ]
+    },
+    "mono.mw2019shoot.hecate": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/hecate"
+        ]
+    },
+    "mono.mw2019shoot.hecatein": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019shoot/hecatein"
+        ]
+    },
+    "mw2reload.mw2psr_bolt1": {
+        "category": "master",
+        "sounds": [
+            "mw2reload/mw2psr_bolt1"
+        ]
+    },
+    "mw2reload.mw2psr_bolt2a": {
+        "category": "master",
+        "sounds": [
+            "mw2reload/mw2psr_bolt2a"
+        ]
+    },
+    "mw2reload.mw2psr_bolt2b": {
+        "category": "master",
+        "sounds": [
+            "mw2reload/mw2psr_bolt2b"
+        ]
+    },
+    "mw2reload.mw2psr_rel1": {
+        "category": "master",
+        "sounds": [
+            "mw2reload/mw2psr_rel1"
+        ]
+    },
+    "mono.mw2reload.mw2psr_bolt1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2reload/mw2psr_bolt1"
+        ]
+    },
+    "mono.mw2reload.mw2psr_bolt2a": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2reload/mw2psr_bolt2a"
+        ]
+    },
+    "mono.mw2reload.mw2psr_bolt2b": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2reload/mw2psr_bolt2b"
+        ]
+    },
+    "mono.mw2reload.mw2psr_rel1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2reload/mw2psr_rel1"
+        ]
+    },
+    "mw3shoot.mw3m870": {
+        "category": "master",
+        "sounds": [
+            "mw3shoot/mw3m870_1"
+        ]
+    },
+    "mw3shoot.mw3m870in": {
+        "category": "master",
+        "sounds": [
+            "mw3shoot/mw3m870_1in"
+        ]
+    },
+    "mw3shoot.mw3m870_1": {
+        "category": "master",
+        "sounds": [
+            "mw3shoot/mw3m870_1"
+        ]
+    },
+    "mw3shoot.mw3m870_1in": {
+        "category": "master",
+        "sounds": [
+            "mw3shoot/mw3m870_1in"
+        ]
+    },
+    "mono.mw3shoot.mw3m870": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw3shoot/mw3m870_1"
+        ]
+    },
+    "mono.mw3shoot.mw3m870in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw3shoot/mw3m870_1in"
+        ]
+    },
+    "mono.mw3shoot.mw3m870_1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw3shoot/mw3m870_1"
+        ]
+    },
+    "mono.mw3shoot.mw3m870_1in": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw3shoot/mw3m870_1in"
+        ]
+    },
+    "mw3reload.mw3m870pump": {
+        "category": "master",
+        "sounds": [
+            "mw3reload/mw3m870pump"
+        ]
+    },
+    "mono.mw3reload.mw3m870pump": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw3reload/mw3m870pump"
+        ]
+    },
+    "mw2019reload.mw2019ax50rel_4": {
+        "category": "master",
+        "sounds": [
+            "mw2019reload/mw2019ax50rel_4"
+        ]
+    },
+    "mono.mw2019reload.mw2019ax50rel_4": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2019reload/mw2019ax50rel_4"
+        ]
     }
 }

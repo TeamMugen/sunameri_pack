@@ -1,0 +1,17 @@
+{
+	"parent": "item/mw/hk416_mdd",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [
+				40,
+				45,
+				96
+			],
+			"translation": [
+				-13.281,
+				0.4500000000000002,
+				3.25
+			]
+		}
+	}
+}

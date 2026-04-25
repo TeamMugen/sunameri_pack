@@ -1,0 +1,34 @@
+{
+	"parent": "item/mw/socom_mdd",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [
+				90,
+				3,
+				90
+			],
+			"translation": [
+				-10,
+				5.5,
+				0
+			]
+		},
+		"firstperson_lefthand": {
+			"rotation": [
+				90,
+				3,
+				90
+			],
+			"translation": [
+				-11,
+				5.5,
+				0
+			],
+			"scale": [
+				-1,
+				1,
+				1
+			]
+		}
+	}
+}

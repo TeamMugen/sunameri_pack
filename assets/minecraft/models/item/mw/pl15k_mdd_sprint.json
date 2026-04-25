@@ -1,0 +1,34 @@
+{
+	"parent": "item/mw/pl15k_mdd",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [
+				90,
+				3,
+				90
+			],
+			"translation": [
+				-10,
+				7.25,
+				2.75
+			],
+			"scale": [
+				0.8,
+				0.8,
+				0.8
+			]
+		},
+		"firstperson_lefthand": {
+			"rotation": [
+				90,
+				3,
+				-90
+			],
+			"translation": [
+				4,
+				8.25,
+				1.25
+			]
+		}
+	}
+}

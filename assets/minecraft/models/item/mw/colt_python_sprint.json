@@ -1,0 +1,29 @@
+{
+	"parent": "item/mw/colt_python",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [
+				90,
+				3,
+				90
+			],
+			"translation": [
+				-11,
+				7.25,
+				3.75
+			]
+		},
+		"firstperson_lefthand": {
+			"rotation": [
+				90,
+				3,
+				-90
+			],
+			"translation": [
+				4,
+				8.25,
+				1.25
+			]
+		}
+	}
+}

@@ -103,7 +103,7 @@
                 "threshold": 31,
                 "model": {
                     "type": "model",
-                    "model": "item/mw/ump45_mod"
+                    "model": "item/mw/ump45_mdd"
                 }
             },
             {
@@ -366,6 +366,335 @@
                 }
             },
             {
+                "threshold": 69,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ak12_mdd1"
+                }
+            },
+            {
+                "threshold": 70,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ak15_mdd1"
+                }
+            },
+            {
+                "threshold": 71,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/aks74u_mdd0"
+                }
+            },
+            {
+                "threshold": 72,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/aps"
+                }
+            },
+            {
+                "threshold": 73,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ax50_mdd"
+                }
+            },
+            {
+                "threshold": 74,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/fn57_blk"
+                }
+            },
+            {
+                "threshold": 75,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/g11"
+                }
+            },
+            {
+                "threshold": 76,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/hk416a5_mdd"
+                }
+            },
+            {
+                "threshold": 77,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ak74m_mdd"
+                }
+            },
+            {
+                "threshold": 78,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ak101_mdd"
+                }
+            },
+            {
+                "threshold": 79,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ak102_mdd"
+                }
+            },
+            {
+                "threshold": 80,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ak104_mdd"
+                }
+            },
+            {
+                "threshold": 81,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/akm_mdd"
+                }
+            },
+            {
+                "threshold": 82,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/colt_python"
+                }
+            },
+            {
+                "threshold": 83,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ks23_mdd"
+                }
+            },
+            {
+                "threshold": 84,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/l86_mdd"
+                }
+            },
+            {
+                "threshold": 85,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/l96a1_mdd"
+                }
+            },
+            {
+                "threshold": 86,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/l115a3_mdd"
+                }
+            },
+            {
+                "threshold": 87,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m9a3"
+                }
+            },
+            {
+                "threshold": 88,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m40a6_mdd"
+                }
+            },
+            {
+                "threshold": 89,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m60e4_mdd"
+                }
+            },
+            {
+                "threshold": 90,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/m82a1_mdd1"
+                }
+            },
+            {
+                "threshold": 91,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/mk14_mdd"
+                }
+            },
+            {
+                "threshold": 92,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/mp5a3_mdd"
+                }
+            },
+            {
+                "threshold": 93,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/mp5k_mdd0"
+                }
+            },
+            {
+                "threshold": 94,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/mp17"
+                }
+            },
+            {
+                "threshold": 95,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/mp153_practical_mdd"
+                }
+            },
+            {
+                "threshold": 96,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/mp443_mdd"
+                }
+            },
+            {
+                "threshold": 97,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/pkm_mdd"
+                }
+            },
+            {
+                "threshold": 98,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/pk15k_mdd"
+                }
+            },
+            {
+                "threshold": 99,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/pm"
+                }
+            },
+            {
+                "threshold": 100,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/q_honey_badger_mdd1"
+                }
+            },
+            {
+                "threshold": 101,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/rpk16_mdd"
+                }
+            },
+            {
+                "threshold": 102,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/sa58_osw_mdd"
+                }
+            },
+            {
+                "threshold": 103,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/saiga12kfa_mdd1"
+                }
+            },
+            {
+                "threshold": 104,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/scar16sc_mdd"
+                }
+            },
+            {
+                "threshold": 105,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/scar16sc_mdd1"
+                }
+            },
+            {
+                "threshold": 106,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/scar68_mdd"
+                }
+            },
+            {
+                "threshold": 107,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/shak12_mdd1"
+                }
+            },
+            {
+                "threshold": 108,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/socom"
+                }
+            },
+            {
+                "threshold": 109,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/socom_mdd"
+                }
+            },
+            {
+                "threshold": 110,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/sv98_mdd"
+                }
+            },
+            {
+                "threshold": 111,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/svdm_mdd"
+                }
+            },
+            {
+                "threshold": 112,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ar57_mdd"
+                }
+            },
+            {
+                "threshold": 113,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/as_val_mdd2"
+                }
+            },
+            {
+                "threshold": 114,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/vityaz_mdd"
+                }
+            },
+            {
+                "threshold": 115,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/bizon_mdd0"
+                }
+            },
+            {
                 "threshold": 10018,
                 "model": {
                     "type": "model",
@@ -384,6 +713,62 @@
                 "model": {
                     "type": "model",
                     "model": "item/mw/ak103_zenit_mdd"
+                }
+            },
+            {
+                "threshold": 10028,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/mp5a3_mdd"
+                }
+            },
+            {
+                "threshold": 10053,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/p320_mdd0"
+                }
+            },
+            {
+                "threshold": 10071,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/aks74u_mdd1"
+                }
+            },
+            {
+                "threshold": 10076,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/hk416_mdd"
+                }
+            },
+            {
+                "threshold": 10077,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ak74m_zenit_mdd"
+                }
+            },
+            {
+                "threshold": 10080,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/ak104_zenit_mdd"
+                }
+            },
+            {
+                "threshold": 10081,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/akm_mdd1"
+                }
+            },
+            {
+                "threshold": 10114,
+                "model": {
+                    "type": "model",
+                    "model": "item/mw/vityaz_sn_zenit_mdd0"
                 }
             },
             {
