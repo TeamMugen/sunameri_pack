@@ -1,0 +1,7 @@
+{
+	"parent": "item/bangasa",
+	"textures": {
+		"0": "guns/hardened_clay_stained_orange",
+		"1": "guns/acacia_planks"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "item/crow1",
+	"textures": {
+		"0": "guns/wool_colored_red",
+		"1": "guns/hardened_clay_stained_red",
+		"2": "guns/andesite",
+		"3": "guns/glowstone"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "item/surgical_mask1",
+	"textures": {
+		"0": "guns/wool_colored_black"
+	}
+}

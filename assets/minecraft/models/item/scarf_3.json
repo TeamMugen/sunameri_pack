@@ -1,0 +1,6 @@
+{
+	"parent": "item/scarf_1",
+	"textures": {
+		"0": "guns/fire_coral_block"
+	}
+}

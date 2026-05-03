@@ -1,0 +1,130 @@
+{
+	"__comment": "Designed by Keisa with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "items/sakuradrink",
+		"texture": "blocks/e_texture",
+		"sakura": "sakura",
+		"sakura_drink": "items/sakuradrink"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box33",
+			"from": [ -5.5, 8, -4 ],
+			"to": [ 21.5, 9, -2.5 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 4.5, 12.5, 4 ], "texture": "#sakura_drink" },
+				"up": { "uv": [ 3.5, 4, 12.5, 4.5 ], "texture": "#sakura_drink" },
+				"north": { "uv": [ 12.5, 4, 3.5, 4.5 ], "texture": "#sakura_drink" },
+				"south": { "uv": [ 3.5, 4, 12.5, 4.5 ], "texture": "#sakura_drink" },
+				"west": { "uv": [ 3.5, 4, 4, 4.5 ], "texture": "#sakura_drink", "rotation": 270 },
+				"east": { "uv": [ 12.5, 4.5, 12, 4 ], "texture": "#sakura_drink", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "Box34",
+			"from": [ -4, 8, -2.5 ],
+			"to": [ 20, 9, 0.5 ],
+			"faces": {
+				"down": { "uv": [ 4, 5.5, 12, 4.5 ], "texture": "#sakura_drink" },
+				"up": { "uv": [ 4, 4.5, 12, 5.5 ], "texture": "#sakura_drink" },
+				"north": { "uv": [ 12, 4.5, 4, 5 ], "texture": "#sakura_drink" },
+				"south": { "uv": [ 4, 5, 12, 5.5 ], "texture": "#sakura_drink" },
+				"west": { "uv": [ 4, 4.5, 4.5, 5.5 ], "texture": "#sakura_drink", "rotation": 270 },
+				"east": { "uv": [ 12, 5.5, 11.5, 4.5 ], "texture": "#sakura_drink", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "Box35",
+			"from": [ -2.5, 8, 0.5 ],
+			"to": [ 18.5, 9, 29 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 15, 11.5, 5.5 ], "texture": "#sakura_drink" },
+				"up": { "uv": [ 4.5, 5.5, 11.5, 15 ], "texture": "#sakura_drink" },
+				"north": { "uv": [ 11.5, 5.5, 4.5, 6 ], "texture": "#sakura_drink" },
+				"south": { "uv": [ 4.5, 14.5, 11.5, 15 ], "texture": "#sakura_drink" },
+				"west": { "uv": [ 4.5, 5.5, 5, 15 ], "texture": "#sakura_drink", "rotation": 270 },
+				"east": { "uv": [ 11.5, 15, 11, 5.5 ], "texture": "#sakura_drink", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "Box36",
+			"from": [ -1, 8, 29 ],
+			"to": [ 17, 9, 30.5 ],
+			"faces": {
+				"down": { "uv": [ 5, 15.5, 11, 15 ], "texture": "#sakura_drink" },
+				"up": { "uv": [ 5, 15, 11, 15.5 ], "texture": "#sakura_drink" },
+				"north": { "uv": [ 11, 15, 5, 15.5 ], "texture": "#sakura_drink" },
+				"south": { "uv": [ 5, 15, 11, 15.5 ], "texture": "#sakura_drink" },
+				"west": { "uv": [ 5, 15, 5.5, 15.5 ], "texture": "#sakura_drink", "rotation": 270 },
+				"east": { "uv": [ 11, 15.5, 10.5, 15 ], "texture": "#sakura_drink", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "Box37",
+			"from": [ 0.5, 8, 30.5 ],
+			"to": [ 15.5, 9, 32 ],
+			"faces": {
+				"down": { "uv": [ 5.5, 16, 10.5, 15.5 ], "texture": "#sakura_drink" },
+				"up": { "uv": [ 5.5, 15.5, 10.5, 16 ], "texture": "#sakura_drink" },
+				"north": { "uv": [ 10.5, 15.5, 5.5, 16 ], "texture": "#sakura_drink" },
+				"south": { "uv": [ 5.5, 15.5, 10.5, 16 ], "texture": "#sakura_drink" },
+				"west": { "uv": [ 5.5, 15.5, 6, 16 ], "texture": "#sakura_drink", "rotation": 270 },
+				"east": { "uv": [ 10.5, 16, 10, 15.5 ], "texture": "#sakura_drink", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "Box38",
+			"from": [ 11, 8, -16 ],
+			"to": [ 14, 9, -4 ],
+			"faces": {
+				"down": { "uv": [ 9, 4, 10, 0 ], "texture": "#sakura_drink" },
+				"up": { "uv": [ 9, 0, 10, 4 ], "texture": "#sakura_drink" },
+				"north": { "uv": [ 10, 0, 9, 0.5 ], "texture": "#sakura_drink" },
+				"south": { "uv": [ 9, 3.5, 10, 4 ], "texture": "#sakura_drink" },
+				"west": { "uv": [ 9, 0, 9.5, 4 ], "texture": "#sakura_drink", "rotation": 270 },
+				"east": { "uv": [ 10, 4, 9.5, 0 ], "texture": "#sakura_drink", "rotation": 270 }
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 270, 0, 0 ],
+			"translation":  [ 0, 2.5, 0 ],
+			"scale":  [ 0.15, 0.3, -0.15 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 270, 0, 0 ],
+			"translation":  [ 0, 2.5, 0 ],
+			"scale":  [ 0.15, 0.3, -0.15 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 66, 0, 59 ],
+			"translation":  [ 2.0869, 2, 0 ],
+			"scale":  [ 0.3, 1, 0.3 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 66, 0, 59 ],
+			"translation":  [ 2.0869, 2, 0 ],
+			"scale":  [ 0.3, 1, 0.3 ]
+		},
+		"gui": {
+			"rotation":  [ 90, 0, 0 ],
+			"scale":  [ 0.32, 1, 0.32 ]
+		},
+		"head": {
+			"rotation":  [ 88, 0, 0 ],
+			"translation":  [ 0, 10, 5 ],
+			"scale":  [ 0.25, 0.5, 0.25 ]
+		},
+		"ground": {
+			"rotation":  [ 90, 0, 0 ],
+			"translation":  [ 0, 5, 0 ],
+			"scale":  [ 0.2, 0.3, 0.2 ]
+		},
+		"fixed": {
+			"rotation":  [ 90, 0, 0 ],
+			"scale":  [ -0.35, 0.5, 0.35 ]
+		}
+	}
+}

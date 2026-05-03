@@ -1,0 +1,12 @@
+{
+	"parent": "item/hat3",
+	"textures": {
+		"4": "items/none",
+		"3": "guns/iron_block",
+		"0": "guns/stripped_dark_oak_log",
+
+		"2": "guns/obsidian",
+
+		"1": "guns/planks_steklo"
+	}
+}

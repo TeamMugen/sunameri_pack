@@ -1,0 +1,6 @@
+{
+	"parent": "item/dagashi3",
+	"textures": {
+		"dagashi3": "items/dagashi5"
+	}
+}

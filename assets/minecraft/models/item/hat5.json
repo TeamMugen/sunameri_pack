@@ -1,0 +1,12 @@
+{
+	"parent": "item/hat3",
+	"textures": {
+		"4": "items/flower1",
+		"3": "guns/stripped_spruce_log",
+		"2": "guns/obsidian",
+
+		"0": "guns/wool_colored_black",
+
+		"1": "guns/spruce_planks"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "item/wing10",
+	"textures": {
+		"wingdata4": "items/wingdata10"
+	}
+}

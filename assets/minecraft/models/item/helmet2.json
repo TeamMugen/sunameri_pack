@@ -1,0 +1,6 @@
+{
+	"parent": "item/helmet1",
+	"textures": {
+		"2": "guns/yellow_concrete"
+	}
+}

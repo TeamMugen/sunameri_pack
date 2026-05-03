@@ -1,0 +1,10 @@
+{
+	"parent": "item/hllantern1",
+	"textures": {
+		"0": "block/basalt_side",
+		"2": "block/nether_bricks",
+		"4": "block/iron_block",
+		"5": "block/netherite_block",
+		"6": "block/soul_fire_0"
+	}
+}

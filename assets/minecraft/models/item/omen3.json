@@ -1,0 +1,77 @@
+{
+	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "blocks/e_particle",
+		"texture": "blocks/e_texture",
+		"omen3": "items/omen3"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ 0, 8, 0.5 ],
+			"to": [ 16, 9, 15.5 ],
+			"faces": {
+				"down": { "uv": [ 0, 15.5, 16, 0.5 ], "texture": "#omen3" },
+				"up": { "uv": [ 0, 0.5, 16, 15.5 ], "texture": "#omen3" },
+				"north": { "uv": [ 16, 0.5, 0, 1 ], "texture": "#omen3" },
+				"south": { "uv": [ 0, 15, 16, 15.5 ], "texture": "#omen3" },
+				"west": { "uv": [ 0, 0.5, 0.5, 15.5 ], "texture": "#omen3", "rotation": 270 },
+				"east": { "uv": [ 16, 15.5, 15.5, 0.5 ], "texture": "#omen3", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "Box2",
+			"from": [ 0.5, 8, 0 ],
+			"to": [ 15.5, 9, 16 ],
+			"faces": {
+				"down": { "uv": [ 0.5, 16, 15.5, 0 ], "texture": "#omen3" },
+				"up": { "uv": [ 0.5, 0, 15.5, 16 ], "texture": "#omen3" },
+				"north": { "uv": [ 15.5, 0, 0.5, 0.5 ], "texture": "#omen3" },
+				"south": { "uv": [ 0.5, 15.5, 15.5, 16 ], "texture": "#omen3" },
+				"west": { "uv": [ 0.5, 0, 1, 16 ], "texture": "#omen3", "rotation": 270 },
+				"east": { "uv": [ 15.5, 16, 15, 0 ], "texture": "#omen3", "rotation": 270 }
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ -180, 0, -180 ],
+			"translation":  [ -0.08, -0.078, 1.3912 ],
+			"scale":  [ 0.3, 0.55, 0.3 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ -180, 0, -180 ],
+			"translation":  [ -0.08, -0.078, 1.3912 ],
+			"scale":  [ 0.3, 0.55, 0.3 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 50, -18, 80 ],
+			"translation":  [ 9.7389, 0, -7.651 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 50, -18, 80 ],
+			"translation":  [ 9.7389, 0, -7.651 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"gui": {
+			"rotation":  [ 56, -22, 26 ],
+			"scale":  [ 0.7, 1.4, 0.7 ]
+		},
+		"head": {
+			"rotation":  [ 90, 0, 0 ],
+			"translation":  [ 0, 0, -8.5 ],
+			"scale":  [ 0.9, 1.8, 0.9 ]
+		},
+		"ground": {
+			"rotation":  [ 90, -45, 0 ],
+			"translation":  [ 0, 3.4782, 0 ],
+			"scale":  [ 0.6, 1.2, 0.6 ]
+		},
+		"fixed": {
+			"rotation":  [ 90, 0, -180 ],
+			"scale":  [ 1, 2, 1 ]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "item/sword62",
+	"textures": {
+		"sword46": "items/sword47"
+	}
+}

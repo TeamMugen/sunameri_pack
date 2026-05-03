@@ -1,0 +1,1335 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/tropical_fish"
+    },
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_4"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_5"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "item/watarigani"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "model",
+          "model": "item/fish1"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "model",
+          "model": "item/fish2"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "model",
+          "model": "item/tunodasi"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "model",
+          "model": "item/barahata"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "model",
+          "model": "item/hirame"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "model",
+          "model": "item/fish3"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "model",
+          "model": "item/aobudai"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "model",
+          "model": "item/candypop"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "model",
+          "model": "item/coela"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "model",
+          "model": "item/ebi"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "model",
+          "model": "item/footballfish"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "model",
+          "model": "item/isidai"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "model",
+          "model": "item/ghostcandy"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "model",
+          "model": "item/kasago"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "model",
+          "model": "item/jelly"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "model",
+          "model": "item/maguro"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "model",
+          "model": "item/octo"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "model",
+          "model": "item/sayori"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "model",
+          "model": "item/squid"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "model",
+          "model": "item/kurogarei"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "model",
+          "model": "item/pumpcandy"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "model",
+          "model": "item/chocolate"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "model",
+          "model": "item/basket"
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "model",
+          "model": "item/pcookie"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "model",
+          "model": "item/aigo"
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "model",
+          "model": "item/amemasu"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "model",
+          "model": "item/aozame"
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "model",
+          "model": "item/ara"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "model",
+          "model": "item/arige-ta-ga-"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "model",
+          "model": "item/ayu"
+        }
+      },
+      {
+        "threshold": 34,
+        "model": {
+          "type": "model",
+          "model": "item/basyoukaziki"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "model",
+          "model": "item/buri"
+        }
+      },
+      {
+        "threshold": 36,
+        "model": {
+          "type": "model",
+          "model": "item/buru-giru"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "model",
+          "model": "item/dokuutubo"
+        }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "model",
+          "model": "item/gindara"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "model",
+          "model": "item/hakuren"
+        }
+      },
+      {
+        "threshold": 40,
+        "model": {
+          "type": "model",
+          "model": "item/isaki"
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "model",
+          "model": "item/iwana"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "model",
+          "model": "item/itou"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "model",
+          "model": "item/iwatokonamazu"
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "model",
+          "model": "item/katuo"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "model",
+          "model": "item/kingsalmon"
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "model",
+          "model": "item/kingyo"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "model",
+          "model": "item/koi"
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "model",
+          "model": "item/madai"
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "model",
+          "model": "item/manta"
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "model",
+          "model": "item/mebaru"
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "model",
+          "model": "item/nigorobuna"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "model",
+          "model": "item/mikagesawagani"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "model",
+          "model": "item/nisin"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "model",
+          "model": "item/oniazi"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "model",
+          "model": "item/onikamasu"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "model",
+          "model": "item/raigyo"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "model",
+          "model": "item/robusuta-"
+        }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "model",
+          "model": "item/saba"
+        }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "model",
+          "model": "item/simaazi"
+        }
+      },
+      {
+        "threshold": 60,
+        "model": {
+          "type": "model",
+          "model": "item/simaazi2"
+        }
+      },
+      {
+        "threshold": 61,
+        "model": {
+          "type": "model",
+          "model": "item/sisyamo"
+        }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "model",
+          "model": "item/stealbomberno"
+        }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "model",
+          "model": "item/umihigoi"
+        }
+      },
+      {
+        "threshold": 64,
+        "model": {
+          "type": "model",
+          "model": "item/unagi"
+        }
+      },
+      {
+        "threshold": 65,
+        "model": {
+          "type": "model",
+          "model": "item/watarigani"
+        }
+      },
+      {
+        "threshold": 66,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_1"
+        }
+      },
+      {
+        "threshold": 67,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_2"
+        }
+      },
+      {
+        "threshold": 68,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_3"
+        }
+      },
+      {
+        "threshold": 69,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_4"
+        }
+      },
+      {
+        "threshold": 70,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_5"
+        }
+      },
+      {
+        "threshold": 71,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_6"
+        }
+      },
+      {
+        "threshold": 72,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_7"
+        }
+      },
+      {
+        "threshold": 73,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_8"
+        }
+      },
+      {
+        "threshold": 74,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_9"
+        }
+      },
+      {
+        "threshold": 75,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_10"
+        }
+      },
+      {
+        "threshold": 76,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_11"
+        }
+      },
+      {
+        "threshold": 77,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_12"
+        }
+      },
+      {
+        "threshold": 78,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_13"
+        }
+      },
+      {
+        "threshold": 79,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_14"
+        }
+      },
+      {
+        "threshold": 80,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_15"
+        }
+      },
+      {
+        "threshold": 81,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_16"
+        }
+      },
+      {
+        "threshold": 82,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_17"
+        }
+      },
+      {
+        "threshold": 83,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_18"
+        }
+      },
+      {
+        "threshold": 84,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_19"
+        }
+      },
+      {
+        "threshold": 85,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_20"
+        }
+      },
+      {
+        "threshold": 86,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_21"
+        }
+      },
+      {
+        "threshold": 87,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_22"
+        }
+      },
+      {
+        "threshold": 88,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_23"
+        }
+      },
+      {
+        "threshold": 89,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_24"
+        }
+      },
+      {
+        "threshold": 90,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_25"
+        }
+      },
+      {
+        "threshold": 91,
+        "model": {
+          "type": "model",
+          "model": "item/chocolate"
+        }
+      },
+      {
+        "threshold": 92,
+        "model": {
+          "type": "model",
+          "model": "item/sword29"
+        }
+      },
+      {
+        "threshold": 93,
+        "model": {
+          "type": "model",
+          "model": "item/sword31"
+        }
+      },
+      {
+        "threshold": 94,
+        "model": {
+          "type": "model",
+          "model": "item/sword35"
+        }
+      },
+      {
+        "threshold": 95,
+        "model": {
+          "type": "model",
+          "model": "item/sword37"
+        }
+      },
+      {
+        "threshold": 96,
+        "model": {
+          "type": "model",
+          "model": "item/sword39"
+        }
+      },
+      {
+        "threshold": 97,
+        "model": {
+          "type": "model",
+          "model": "item/sword41"
+        }
+      },
+      {
+        "threshold": 98,
+        "model": {
+          "type": "model",
+          "model": "item/sword43"
+        }
+      },
+      {
+        "threshold": 99,
+        "model": {
+          "type": "model",
+          "model": "item/sword45"
+        }
+      },
+      {
+        "threshold": 100,
+        "model": {
+          "type": "model",
+          "model": "item/sword47"
+        }
+      },
+      {
+        "threshold": 101,
+        "model": {
+          "type": "model",
+          "model": "item/sword49"
+        }
+      },
+      {
+        "threshold": 102,
+        "model": {
+          "type": "model",
+          "model": "item/sword51"
+        }
+      },
+      {
+        "threshold": 103,
+        "model": {
+          "type": "model",
+          "model": "item/sword53"
+        }
+      },
+      {
+        "threshold": 104,
+        "model": {
+          "type": "model",
+          "model": "item/sword57"
+        }
+      },
+      {
+        "threshold": 105,
+        "model": {
+          "type": "model",
+          "model": "item/sword59"
+        }
+      },
+      {
+        "threshold": 106,
+        "model": {
+          "type": "model",
+          "model": "item/sword61"
+        }
+      },
+      {
+        "threshold": 107,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_26"
+        }
+      },
+      {
+        "threshold": 108,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_27"
+        }
+      },
+      {
+        "threshold": 109,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_28"
+        }
+      },
+      {
+        "threshold": 110,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_29"
+        }
+      },
+      {
+        "threshold": 111,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_30"
+        }
+      },
+      {
+        "threshold": 112,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_31"
+        }
+      },
+      {
+        "threshold": 113,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_32"
+        }
+      },
+      {
+        "threshold": 114,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_33"
+        }
+      },
+      {
+        "threshold": 115,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_34"
+        }
+      },
+      {
+        "threshold": 116,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_35"
+        }
+      },
+      {
+        "threshold": 117,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_36"
+        }
+      },
+      {
+        "threshold": 118,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_37"
+        }
+      },
+      {
+        "threshold": 119,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_38"
+        }
+      },
+      {
+        "threshold": 120,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_39"
+        }
+      },
+      {
+        "threshold": 121,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_40"
+        }
+      },
+      {
+        "threshold": 122,
+        "model": {
+          "type": "model",
+          "model": "item/dagashi1"
+        }
+      },
+      {
+        "threshold": 123,
+        "model": {
+          "type": "model",
+          "model": "item/dagashi2"
+        }
+      },
+      {
+        "threshold": 124,
+        "model": {
+          "type": "model",
+          "model": "item/food_1"
+        }
+      },
+      {
+        "threshold": 125,
+        "model": {
+          "type": "model",
+          "model": "item/dagashi4"
+        }
+      },
+      {
+        "threshold": 126,
+        "model": {
+          "type": "model",
+          "model": "item/food_2"
+        }
+      },
+      {
+        "threshold": 127,
+        "model": {
+          "type": "model",
+          "model": "item/food_3"
+        }
+      },
+      {
+        "threshold": 128,
+        "model": {
+          "type": "model",
+          "model": "item/food_5"
+        }
+      },
+      {
+        "threshold": 129,
+        "model": {
+          "type": "model",
+          "model": "item/food_6"
+        }
+      },
+      {
+        "threshold": 130,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_41"
+        }
+      },
+      {
+        "threshold": 131,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_42"
+        }
+      },
+      {
+        "threshold": 132,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_43"
+        }
+      },
+      {
+        "threshold": 133,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_44"
+        }
+      },
+      {
+        "threshold": 134,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_45"
+        }
+      },
+      {
+        "threshold": 135,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_46"
+        }
+      },
+      {
+        "threshold": 136,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_47"
+        }
+      },
+      {
+        "threshold": 137,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_48"
+        }
+      },
+      {
+        "threshold": 138,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_49"
+        }
+      },
+      {
+        "threshold": 139,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_50"
+        }
+      },
+      {
+        "threshold": 140,
+        "model": {
+          "type": "model",
+          "model": "item/sword69"
+        }
+      },
+      {
+        "threshold": 141,
+        "model": {
+          "type": "model",
+          "model": "item/mutant1"
+        }
+      },
+      {
+        "threshold": 142,
+        "model": {
+          "type": "model",
+          "model": "item/mutant2"
+        }
+      },
+      {
+        "threshold": 143,
+        "model": {
+          "type": "model",
+          "model": "item/mutant3"
+        }
+      },
+      {
+        "threshold": 144,
+        "model": {
+          "type": "model",
+          "model": "item/mutant4"
+        }
+      },
+      {
+        "threshold": 145,
+        "model": {
+          "type": "model",
+          "model": "item/mutant5"
+        }
+      },
+      {
+        "threshold": 146,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_51"
+        }
+      },
+      {
+        "threshold": 147,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_52"
+        }
+      },
+      {
+        "threshold": 148,
+        "model": {
+          "type": "model",
+          "model": "item/choco1"
+        }
+      },
+      {
+        "threshold": 149,
+        "model": {
+          "type": "model",
+          "model": "item/choco2"
+        }
+      },
+      {
+        "threshold": 150,
+        "model": {
+          "type": "model",
+          "model": "item/choco3"
+        }
+      },
+      {
+        "threshold": 151,
+        "model": {
+          "type": "model",
+          "model": "item/choco4"
+        }
+      },
+      {
+        "threshold": 152,
+        "model": {
+          "type": "model",
+          "model": "item/choco5"
+        }
+      },
+      {
+        "threshold": 153,
+        "model": {
+          "type": "model",
+          "model": "item/choco6"
+        }
+      },
+      {
+        "threshold": 154,
+        "model": {
+          "type": "model",
+          "model": "item/choco7"
+        }
+      },
+      {
+        "threshold": 155,
+        "model": {
+          "type": "model",
+          "model": "item/choco8"
+        }
+      },
+      {
+        "threshold": 156,
+        "model": {
+          "type": "model",
+          "model": "item/choco9"
+        }
+      },
+      {
+        "threshold": 157,
+        "model": {
+          "type": "model",
+          "model": "item/sakuradrink"
+        }
+      },
+      {
+        "threshold": 158,
+        "model": {
+          "type": "model",
+          "model": "item/easterfish_gen1"
+        }
+      },
+      {
+        "threshold": 159,
+        "model": {
+          "type": "model",
+          "model": "item/easterfish_gen2"
+        }
+      },
+      {
+        "threshold": 160,
+        "model": {
+          "type": "model",
+          "model": "item/easterfish_gen3"
+        }
+      },
+      {
+        "threshold": 161,
+        "model": {
+          "type": "model",
+          "model": "item/easterfish_gen4"
+        }
+      },
+      {
+        "threshold": 162,
+        "model": {
+          "type": "model",
+          "model": "item/easterfish_gen7"
+        }
+      },
+      {
+        "threshold": 163,
+        "model": {
+          "type": "model",
+          "model": "item/easterfish_gen8"
+        }
+      },
+      {
+        "threshold": 164,
+        "model": {
+          "type": "model",
+          "model": "item/easterfish_gen9"
+        }
+      },
+      {
+        "threshold": 165,
+        "model": {
+          "type": "model",
+          "model": "item/easterfish_gen10"
+        }
+      },
+      {
+        "threshold": 166,
+        "model": {
+          "type": "model",
+          "model": "item/soupkeisa"
+        }
+      },
+      {
+        "threshold": 167,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_53"
+        }
+      },
+      {
+        "threshold": 168,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_54"
+        }
+      },
+      {
+        "threshold": 169,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_55"
+        }
+      },
+      {
+        "threshold": 170,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_56"
+        }
+      },
+      {
+        "threshold": 171,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_57"
+        }
+      },
+      {
+        "threshold": 172,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_58"
+        }
+      },
+      {
+        "threshold": 173,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_59"
+        }
+      },
+      {
+        "threshold": 174,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_60"
+        }
+      },
+      {
+        "threshold": 175,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_61"
+        }
+      },
+      {
+        "threshold": 176,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_62"
+        }
+      },
+      {
+        "threshold": 177,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_63"
+        }
+      },
+      {
+        "threshold": 178,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_64"
+        }
+      },
+      {
+        "threshold": 179,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_65"
+        }
+      },
+      {
+        "threshold": 180,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_66"
+        }
+      },
+      {
+        "threshold": 181,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_67"
+        }
+      },
+      {
+        "threshold": 182,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_68"
+        }
+      },
+      {
+        "threshold": 183,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_69"
+        }
+      },
+      {
+        "threshold": 184,
+        "model": {
+          "type": "model",
+          "model": "item/newfish_70"
+        }
+      },
+      {
+        "threshold": 185,
+        "model": {
+          "type": "model",
+          "model": "item/autumn2"
+        }
+      },
+      {
+        "threshold": 186,
+        "model": {
+          "type": "model",
+          "model": "item/autumn3"
+        }
+      },
+      {
+        "threshold": 187,
+        "model": {
+          "type": "model",
+          "model": "item/autumn4"
+        }
+      },
+      {
+        "threshold": 188,
+        "model": {
+          "type": "model",
+          "model": "item/autumn6"
+        }
+      },
+      {
+        "threshold": 189,
+        "model": {
+          "type": "model",
+          "model": "item/horror3"
+        }
+      }
+    ]
+  }
+}

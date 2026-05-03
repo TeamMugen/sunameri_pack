@@ -1,0 +1,7 @@
+{
+	"parent": "item/ahorse1",
+	"textures": {
+		"0": "baka/horse_black",
+		"particle": "baka/horse_black"
+	}
+}

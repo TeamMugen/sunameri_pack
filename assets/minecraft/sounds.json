@@ -6447,5 +6447,821 @@
         "sounds": [
             "1mono/mw2019reload/mw2019ax50rel_4"
         ]
+    },
+    "magics.hitting": {
+        "sounds": [
+            "magics/hitting"
+        ],
+        "category": "voice"
+    },
+    "magics.shoot": {
+        "sounds": [
+            {
+                "name": "magics/shoot",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.ak": {
+        "sounds": [
+            {
+                "name": "shoot/ak",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.shotgun": {
+        "sounds": [
+            {
+                "name": "shoot/shotgun",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.rocketreload": {
+        "sounds": [
+            {
+                "name": "shoot/rocketreload",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.rocket": {
+        "sounds": [
+            {
+                "name": "shoot/rocket",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.sniper": {
+        "sounds": [
+            "shoot/sniper"
+        ],
+        "category": "voice"
+    },
+    "magics.shoot2": {
+        "sounds": [
+            {
+                "name": "magics/shoot2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.plasmashock": {
+        "sounds": [
+            {
+                "name": "shoot/plasmashock",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.surgereload": {
+        "sounds": [
+            {
+                "name": "reload/surgereload",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.surge": {
+        "sounds": [
+            {
+                "name": "shoot/surge",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.crown": {
+        "sounds": [
+            {
+                "name": "shoot/crown",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "syamu.idle1": {
+        "sounds": [
+            {
+                "name": "syamu/idle1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.amr1": {
+        "sounds": [
+            {
+                "name": "shoot/amrshoot1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.dmr1": {
+        "sounds": [
+            {
+                "name": "shoot/dmrshoot1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.dmr2": {
+        "sounds": [
+            {
+                "name": "shoot/dmrshoot2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.pdw1": {
+        "sounds": [
+            {
+                "name": "shoot/pdwshoot1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.ar1": {
+        "sounds": [
+            {
+                "name": "shoot/arshoot1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.ar2": {
+        "sounds": [
+            {
+                "name": "shoot/arshoot2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.ar3": {
+        "sounds": [
+            {
+                "name": "shoot/arshoot3",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.hg1": {
+        "sounds": [
+            {
+                "name": "shoot/hgshoot1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.hg2": {
+        "sounds": [
+            {
+                "name": "shoot/hgshoot2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.hg3": {
+        "sounds": [
+            {
+                "name": "shoot/hgshoot3",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.hg4": {
+        "sounds": [
+            {
+                "name": "shoot/hgshoot4",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.m240": {
+        "sounds": [
+            {
+                "name": "shoot/m240shoot",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.mg1": {
+        "sounds": [
+            {
+                "name": "shoot/mgshoot1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.mg2": {
+        "sounds": [
+            {
+                "name": "shoot/mgshoot2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.sg1": {
+        "sounds": [
+            {
+                "name": "shoot/shotgunshoot1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.sg2": {
+        "sounds": [
+            {
+                "name": "shoot/shotgunshoot2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.sg3": {
+        "sounds": [
+            {
+                "name": "shoot/shotgunshoot3",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.smg1": {
+        "sounds": [
+            {
+                "name": "shoot/smgshoot1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.smg2": {
+        "sounds": [
+            {
+                "name": "shoot/smgshoot2",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.smg3": {
+        "sounds": [
+            {
+                "name": "shoot/smgshoot3",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.sr1": {
+        "sounds": [
+            {
+                "name": "shoot/snipershoot1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.sr2": {
+        "sounds": [
+            {
+                "name": "shoot/snipershoot2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.sr3": {
+        "sounds": [
+            {
+                "name": "shoot/snipershoot3",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.sr4": {
+        "sounds": [
+            {
+                "name": "shoot/snipershoot4",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.gl1": {
+        "sounds": [
+            {
+                "name": "shoot/grenadeshoot",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.masterkey": {
+        "sounds": [
+            {
+                "name": "shoot/masterkeyshoot",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "grenadethrow": {
+        "sounds": [
+            {
+                "name": "shoot/grenadethrow",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.ar1": {
+        "sounds": [
+            {
+                "name": "reload/arreload1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.ar2": {
+        "sounds": [
+            {
+                "name": "reload/arreload2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.ar3": {
+        "sounds": [
+            {
+                "name": "reload/arreload3",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.pdw1": {
+        "sounds": [
+            {
+                "name": "reload/pdwreload1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.dmr1": {
+        "sounds": [
+            {
+                "name": "reload/dmrreload1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.m240": {
+        "sounds": [
+            {
+                "name": "reload/m240reload",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.gl1": {
+        "sounds": [
+            {
+                "name": "reload/grenadereload",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.masterkey": {
+        "sounds": [
+            {
+                "name": "reload/masterkeyreload",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.amr1": {
+        "sounds": [
+            {
+                "name": "reload/amrreload1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.mg1": {
+        "sounds": [
+            {
+                "name": "reload/mgreload1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.mg2": {
+        "sounds": [
+            {
+                "name": "reload/mgreload2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.smg2": {
+        "sounds": [
+            {
+                "name": "reload/smgreload2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.smg1": {
+        "sounds": [
+            {
+                "name": "reload/smgreload1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.sr1": {
+        "sounds": [
+            {
+                "name": "reload/srreload1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.sr2": {
+        "sounds": [
+            {
+                "name": "reload/srreload2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.sr3": {
+        "sounds": [
+            {
+                "name": "reload/srreload3",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.sr4": {
+        "sounds": [
+            {
+                "name": "reload/srreload4",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "shoot.cbow": {
+        "sounds": [
+            {
+                "name": "shoot/crossbowshoot",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.sg1": {
+        "sounds": [
+            {
+                "name": "reload/sgreload1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.sg2": {
+        "sounds": [
+            {
+                "name": "reload/sgreload2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.sg3": {
+        "sounds": [
+            {
+                "name": "reload/sgreload3",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.hg1": {
+        "sounds": [
+            {
+                "name": "reload/hgreload1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.hg2": {
+        "sounds": [
+            {
+                "name": "reload/hgreload2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.hg3": {
+        "sounds": [
+            {
+                "name": "reload/hgreload3",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "reload.cbow": {
+        "sounds": [
+            {
+                "name": "reload/crossbowreload",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "weapon.knifeslash1": {
+        "sounds": [
+            {
+                "name": "weapon/knifeslash1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "weapon.knifeslash2": {
+        "sounds": [
+            {
+                "name": "weapon/knifeslash2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "weapon.katana": {
+        "sounds": [
+            {
+                "name": "weapon/katana",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "syamu.idle2": {
+        "sounds": [
+            {
+                "name": "syamu/idle2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "scope": {
+        "sounds": [
+            {
+                "name": "scope/sniper",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "syamu.idle4": {
+        "sounds": [
+            {
+                "name": "syamu/idle4",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "magics.fire": {
+        "sounds": [
+            {
+                "name": "magics/fire",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "weapon.transform": {
+        "sounds": [
+            {
+                "name": "weapon/transform",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "magics.shoot3": {
+        "sounds": [
+            {
+                "name": "magic/shoot3",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
+    },
+    "horror.alert": {
+        "sounds": [
+            {
+                "name": "horror/alert",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1
+            }
+        ],
+        "category": "voice"
     }
 }

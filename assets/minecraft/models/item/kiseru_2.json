@@ -1,0 +1,7 @@
+{
+	"parent": "item/kiseru_1",
+	"textures": {
+		"0": "guns/bone_block_side",
+		"1": "guns/hardened_clay_stained_blue"
+	}
+}

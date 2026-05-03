@@ -1,0 +1,7 @@
+{
+	"parent": "item/bangasa",
+	"textures": {
+		"0": "guns/white_concrete",
+		"1": "guns/birch_planks"
+	}
+}
