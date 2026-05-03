@@ -12,7 +12,7 @@
 		"8": "block/redstone_block",
 		"9": "block/brown_mushroom_block",
 		"particle": "block/light_blue_concrete",
-		"missing": "items/e_texture"
+		"missing": "item/e_texture"
 	},
 	"elements": [ 	 
 		{

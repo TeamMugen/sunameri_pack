@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"raigyo": "items/raigyo"
+		"raigyo": "item/raigyo"
 	},
 	"elements": [ 	 
 		{

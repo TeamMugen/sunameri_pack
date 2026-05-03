@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "items/eggkeisatsu0316",
-		"particle": "items/eggkeisatsu0316"
+		"2": "item/eggkeisatsu0316",
+		"particle": "item/eggkeisatsu0316"
 	},
 	"elements": [
 		{

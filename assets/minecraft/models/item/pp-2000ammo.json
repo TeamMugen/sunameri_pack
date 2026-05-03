@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "items/pp-2000ammo"
+        "layer0": "item/pp-2000ammo"
     }
 }

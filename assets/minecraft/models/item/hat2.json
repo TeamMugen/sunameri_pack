@@ -1,7 +1,7 @@
 {
 	"parent": "item/hat3",
 	"textures": {
-		"4": "items/none",
+		"4": "item/none",
 		"3": "guns/iron_block",
 		"0": "guns/stripped_dark_oak_log",
 

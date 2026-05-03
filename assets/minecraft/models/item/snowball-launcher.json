@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"texture": "blocks/e_texture",
-		"snowball-launcher": "items/snowball-launcher"
+		"particle": "block/e_particle",
+		"texture": "block/e_texture",
+		"snowball-launcher": "item/snowball-launcher"
 	},
 	"elements": [ 	 
 		{

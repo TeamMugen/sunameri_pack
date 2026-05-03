@@ -5,7 +5,7 @@
 		"1": "guns/glass_black",
 		"3": "guns/gold_block",
 		"particle": "guns/wool_colored_black",
-		"missing": "blocks/e_texture"
+		"missing": "block/e_texture"
 	},
 	"elements": [ 	 
 		{

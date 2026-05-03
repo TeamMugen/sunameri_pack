@@ -1,7 +1,7 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "items/bow3_3"
+        "layer0": "item/bow3_3"
     }
 }
 

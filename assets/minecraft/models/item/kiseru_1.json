@@ -1,11 +1,11 @@
 {
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"0": "blocks/gold_block2",
-		"1": "blocks/dark_oak_planks2",
-		"2": "blocks/black_concrete2",
-		"particle": "blocks/gold_block2",
-		"missing": "blocks/e_texture"
+		"0": "block/gold_block2",
+		"1": "block/dark_oak_planks2",
+		"2": "block/black_concrete2",
+		"particle": "block/gold_block2",
+		"missing": "block/e_texture"
 	},
 	"elements": [ 	 
 		{

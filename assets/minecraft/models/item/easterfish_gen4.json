@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Keisa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "items/kamatsuka1",
-		"texture": "blocks/e_texture",
-		"kamatsuka1": "items/kamatsuka1"
+		"particle": "item/kamatsuka1",
+		"texture": "block/e_texture",
+		"kamatsuka1": "item/kamatsuka1"
 	},
 	"elements": [ 	 
 		{

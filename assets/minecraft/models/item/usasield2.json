@@ -1,10 +1,10 @@
 {
 	"__comment": "Designed by Keisa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture",
-		"usashield4": "items/usashield4",
-		"usasield1": "items/usashield2"
+		"particle": "block/particle",
+		"texture": "block/texture",
+		"usashield4": "item/usashield4",
+		"usasield1": "item/usashield2"
 	},
 	"elements": [ 	 
 		{

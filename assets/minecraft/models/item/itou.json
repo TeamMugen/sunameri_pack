@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "items/itou",
-		"texture": "items/itou",
-		"itou": "items/itou"
+		"particle": "item/itou",
+		"texture": "item/itou",
+		"itou": "item/itou"
 	},
 	"elements": [ 	 
 		{

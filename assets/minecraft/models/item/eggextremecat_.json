@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "items/eggextremecat_",
-		"particle": "items/eggextremecat_"
+		"2": "item/eggextremecat_",
+		"particle": "item/eggextremecat_"
 	},
 	"elements": [
 		{

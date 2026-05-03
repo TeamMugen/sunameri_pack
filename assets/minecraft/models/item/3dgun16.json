@@ -7,7 +7,7 @@
 		"3": "guns/gold_block",
 		"4": "guns/planks_spruce",
 		"particle": "guns/wool_colored_gray",
-		"missing": "items/e_texture"
+		"missing": "item/e_texture"
 	},
 	"elements": [ 	 
 		{

@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "items/newfish_12",
-		"texture": "items/newfish_12",
-		"newfish_12": "items/newfish_12"
+		"particle": "item/newfish_12",
+		"texture": "item/newfish_12",
+		"newfish_12": "item/newfish_12"
 	},
 	"elements": [ 	 
 		{

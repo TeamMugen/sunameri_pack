@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "guns/wool_colored_black",
-		"1": "blocks/iron_block2",
+		"1": "block/iron_block2",
 		"particle": "guns/wool_colored_black"
 	},
 	"elements": [

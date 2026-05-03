@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "items/eggktsg"
+		"1": "item/eggktsg"
 	},
 	"elements": [
 		{

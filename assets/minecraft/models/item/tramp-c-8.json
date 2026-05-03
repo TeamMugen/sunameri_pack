@@ -1,10 +1,10 @@
 {
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"texture": "blocks/e_texture",
-		"tramp-c-1": "items/tramp/tramp-c-8",
-		"tramp-design": "items/tramp/tramp-design"
+		"particle": "block/e_particle",
+		"texture": "block/e_texture",
+		"tramp-c-1": "item/tramp/tramp-c-8",
+		"tramp-design": "item/tramp/tramp-design"
 	},
 	"elements": [ 	 
 		{

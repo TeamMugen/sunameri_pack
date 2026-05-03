@@ -1,6 +1,6 @@
 {
     "parent": "item/fishing_rod",
     "textures": {
-        "layer0": "items/fishpole1_cast"
+        "layer0": "item/fishpole1_cast"
     }
 }

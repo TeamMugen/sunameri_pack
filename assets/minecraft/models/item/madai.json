@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "items/madai"
+        "layer0": "item/madai"
     }
 }

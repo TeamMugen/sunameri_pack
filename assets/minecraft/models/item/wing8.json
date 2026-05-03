@@ -1,6 +1,6 @@
 {
 	"parent": "item/wing7",
 	"textures": {
-		"c0f968f53131f53d": "items/wingdata3"
+		"c0f968f53131f53d": "item/wingdata3"
 	}
 }

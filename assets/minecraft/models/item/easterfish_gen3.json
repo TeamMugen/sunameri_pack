@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Keisa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "items/tanago_1",
-		"texture": "blocks/e_texture",
-		"tanago_1": "items/tanago_1"
+		"particle": "item/tanago_1",
+		"texture": "block/e_texture",
+		"tanago_1": "item/tanago_1"
 	},
 	"elements": [ 	 
 		{

@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "guns/cauldron_inner",
 		"2": "guns/iron_block",
-		"missing": "items/e_texture"
+		"missing": "item/e_texture"
 	},
 	"elements": [ 	 
 		{

@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "items/newfish_5"
+        "layer0": "item/newfish_5"
     }
 }

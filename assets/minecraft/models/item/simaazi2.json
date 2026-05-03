@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"texture": "blocks/e_texture",
-		"simaazi2": "items/simaazi2"
+		"particle": "block/e_particle",
+		"texture": "block/e_texture",
+		"simaazi2": "item/simaazi2"
 	},
 	"elements": [ 	 
 		{

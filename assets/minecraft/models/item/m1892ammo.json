@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "items/m1892ammo"
+        "layer0": "item/m1892ammo"
     }
 }

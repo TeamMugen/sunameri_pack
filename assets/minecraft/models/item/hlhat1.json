@@ -5,7 +5,7 @@
 		"1": "guns/crying_obsidian",
 		"2": "guns/netherite_block",
 		"3": "guns/anvil_base",
-		"particle": "blocks/anvil_base"
+		"particle": "block/anvil_base"
 	},
 	"elements": [ 	 
 		{

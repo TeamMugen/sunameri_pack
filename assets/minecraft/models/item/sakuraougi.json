@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Keisa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"texture": "blocks/e_texture",
-		"sakuraougi": "items/sakuraougi"
+		"particle": "block/e_particle",
+		"texture": "block/e_texture",
+		"sakuraougi": "item/sakuraougi"
 	},
 	"elements": [ 	 
 		{

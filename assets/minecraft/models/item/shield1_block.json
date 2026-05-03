@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture",
-		"riotshield": "blocks/riotshield"
+		"particle": "block/particle",
+		"texture": "block/texture",
+		"riotshield": "block/riotshield"
 	},
 	"elements": [ 	 
 		{

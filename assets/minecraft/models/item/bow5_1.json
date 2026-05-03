@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "items/bow5_1"
+        "layer0": "item/bow5_1"
     },
     "gui_light": "front",
     "display": {

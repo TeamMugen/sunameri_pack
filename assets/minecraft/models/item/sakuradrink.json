@@ -1,10 +1,10 @@
 {
 	"__comment": "Designed by Keisa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "items/sakuradrink",
-		"texture": "blocks/e_texture",
+		"particle": "item/sakuradrink",
+		"texture": "block/e_texture",
 		"sakura": "sakura",
-		"sakura_drink": "items/sakuradrink"
+		"sakura_drink": "item/sakuradrink"
 	},
 	"elements": [ 	 
 		{

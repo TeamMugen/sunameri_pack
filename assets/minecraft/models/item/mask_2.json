@@ -1,6 +1,6 @@
 {
 	"parent": "item/mask_1",
 	"textures": {
-		"mask_1": "items/mask_2"
+		"mask_1": "item/mask_2"
 	}
 }

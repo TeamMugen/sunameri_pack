@@ -1,13 +1,13 @@
 {
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"0": "blocks/gold_block2",
-		"1": "blocks/brown_wool2",
-		"2": "blocks/burntbrown",
-		"3": "blocks/redstone_block2",
-		"4": "blocks/light_gray_wool2",
-		"5": "blocks/anvil_base2",
-		"particle": "blocks/gold_block2"
+		"0": "block/gold_block2",
+		"1": "block/brown_wool2",
+		"2": "block/burntbrown",
+		"3": "block/redstone_block2",
+		"4": "block/light_gray_wool2",
+		"5": "block/anvil_base2",
+		"particle": "block/gold_block2"
 	},
 	"elements": [ 	 
 		{

@@ -1,6 +1,6 @@
 {
 	"parent": "item/basyoukaziki",
 	"textures": {
-		"basyoukaziki": "items/newfish_56"
+		"basyoukaziki": "item/newfish_56"
 	}
 }

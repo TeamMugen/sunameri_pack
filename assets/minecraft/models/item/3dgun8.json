@@ -4,8 +4,8 @@
 		"0": "guns/cauldron_inner",
 		"1": "guns/wool_colored_black",
 		"2": "guns/wool_colored_gray",
-		"particle": "items/cauldron_inner",
-		"missing": "items/e_texture"
+		"particle": "item/cauldron_inner",
+		"missing": "item/e_texture"
 	},
 	"elements": [ 	 
 		{

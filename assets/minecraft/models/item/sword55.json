@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "items/m1911_maturi"
+        "layer0": "item/m1911_maturi"
     }
 }

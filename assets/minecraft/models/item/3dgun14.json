@@ -5,7 +5,7 @@
 		"1": "guns/wool_colored_gray",
 		"2": "guns/hardened_clay_stained_lime",
 		"particle": "guns/cauldron_inner",
-		"texture": "items/e_texture"
+		"texture": "item/e_texture"
 	},
 	"elements": [ 	 
 		{

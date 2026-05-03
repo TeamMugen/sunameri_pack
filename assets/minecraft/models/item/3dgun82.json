@@ -5,7 +5,7 @@
 		"1": "guns/cauldron_inner",
 		"3": "guns/wool_colored_black",
 		"1_3": "guns/wool_colored_black",
-		"missing": "items/e_texture"
+		"missing": "item/e_texture"
 	},
 	"elements": [ 	 
 		{

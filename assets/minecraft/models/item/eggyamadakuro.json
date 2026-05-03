@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "items/eggyamadakuro",
-		"particle": "items/eggyamadakuro"
+		"2": "item/eggyamadakuro",
+		"particle": "item/eggyamadakuro"
 	},
 	"elements": [
 		{

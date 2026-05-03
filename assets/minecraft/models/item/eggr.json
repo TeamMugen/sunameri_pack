@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "a",
 	"textures": {
-		"0": "items/eggr",
-		"particle": "items/eggr"
+		"0": "item/eggr",
+		"particle": "item/eggr"
 	},
 	"elements": [
 		{

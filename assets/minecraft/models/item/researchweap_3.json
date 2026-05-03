@@ -10,7 +10,7 @@
 		"6": "block/black_concrete",
 		"7": "block/prismarine",
 		"particle": "block/anvil",
-		"missing": "blocks/e_texture"
+		"missing": "block/e_texture"
 	},
 	"elements": [ 	 
 		{

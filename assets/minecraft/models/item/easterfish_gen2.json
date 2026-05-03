@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by Keisa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "items/aburahaya",
-		"texture": "items/e_texture",
-		"aburahaya": "items/aburahaya"
+		"particle": "item/aburahaya",
+		"texture": "item/e_texture",
+		"aburahaya": "item/aburahaya"
 	},
 	"elements": [ 	 
 		{

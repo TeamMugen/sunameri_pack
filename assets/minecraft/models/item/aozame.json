@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "items/aozame",
-		"texture": "items/aozame",
-		"aozame": "items/aozame"
+		"particle": "item/aozame",
+		"texture": "item/aozame",
+		"aozame": "item/aozame"
 	},
 	"elements": [ 	 
 		{

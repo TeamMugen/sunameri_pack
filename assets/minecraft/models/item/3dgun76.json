@@ -2,7 +2,7 @@
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"1": "guns/wool_colored_black",
-		"2": "blocks/redstone_block2",
+		"2": "block/redstone_block2",
 		"3": "guns/glass",
 		"missing": "guns/e_texture",
 		"0": "guns/e_texture"

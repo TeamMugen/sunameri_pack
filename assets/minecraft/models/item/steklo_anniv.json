@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by ExtremeCat_ with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture",
-		"voxels_atlas": "blocks/voxels_atlas"
+		"particle": "block/particle",
+		"texture": "block/texture",
+		"voxels_atlas": "block/voxels_atlas"
 	},
 	"elements": [ 	 
 		{

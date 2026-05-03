@@ -1,7 +1,7 @@
 {
 	"__comment": "Created by CaptainMurasa",
 	"textures": {
-		"deathscythe": "items/deathscythe"
+		"deathscythe": "item/deathscythe"
 	},
 	"elements": [ 	 
 		{

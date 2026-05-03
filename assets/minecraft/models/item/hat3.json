@@ -5,7 +5,7 @@
 		"1": "guns/birch_planks",
 		"2": "guns/crying_obsidian",
 		"3": "guns/quartz_bricks",
-		"4": "items/flower2",
+		"4": "item/flower2",
 		"particle": "guns/black_concrete"
 	},
 	"elements": [ 	 

@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "items/eggnoa_momo_"
+		"1": "item/eggnoa_momo_"
 	},
 	"elements": [
 		{

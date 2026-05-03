@@ -1,10 +1,10 @@
 {
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"texture": "blocks/e_texture",
-		"knife2": "items/knife2",
-		"knife3": "items/knife3"
+		"particle": "block/e_particle",
+		"texture": "block/e_texture",
+		"knife2": "item/knife2",
+		"knife3": "item/knife3"
 	},
 	"elements": [ 	 
 		{

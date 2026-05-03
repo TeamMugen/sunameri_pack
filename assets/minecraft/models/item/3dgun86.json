@@ -9,7 +9,7 @@
 		"5": "guns/hardened_clay_stained_green",
 		"6": "guns/wool_colored_black",
 		"7": "guns/wool_colored_gray",
-		"particle": "items/glass_red",
+		"particle": "item/glass_red",
 		"missing": "guns/e_texture"
 	},
 	"elements": [ 	 

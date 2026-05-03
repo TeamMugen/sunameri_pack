@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "items/sword40",
-		"texture": "blocks/e_texture",
-		"sword40": "items/sword40"
+		"particle": "item/sword40",
+		"texture": "block/e_texture",
+		"sword40": "item/sword40"
 	},
 	"elements": [ 	 
 		{

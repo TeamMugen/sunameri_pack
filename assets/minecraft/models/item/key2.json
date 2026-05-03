@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "items/key2"
+        "layer0": "item/key2"
     }
 }

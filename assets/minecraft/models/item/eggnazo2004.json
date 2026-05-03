@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "items/eggnazo2004",
-		"particle": "items/eggnazo2004"
+		"2": "item/eggnazo2004",
+		"particle": "item/eggnazo2004"
 	},
 	"elements": [
 		{

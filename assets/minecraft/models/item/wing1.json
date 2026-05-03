@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "items/wing1"
+		"texture": "item/wing1"
 	},
 	"elements": [ 	 
 		{

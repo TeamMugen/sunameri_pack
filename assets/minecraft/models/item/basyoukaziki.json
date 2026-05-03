@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "items/basyoukaziki",
-		"texture": "items/basyoukaziki",
-		"basyoukaziki": "items/basyoukaziki"
+		"particle": "item/basyoukaziki",
+		"texture": "item/basyoukaziki",
+		"basyoukaziki": "item/basyoukaziki"
 	},
 	"elements": [ 	 
 		{

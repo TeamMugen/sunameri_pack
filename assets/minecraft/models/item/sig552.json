@@ -1,9 +1,9 @@
 {
 	"__comment": "Designed by CaptainMurasa with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"texture": "blocks/e_texture",
-		"sig552": "items/sig552"
+		"particle": "block/e_particle",
+		"texture": "block/e_texture",
+		"sig552": "item/sig552"
 	},
 	"elements": [ 	 
 		{

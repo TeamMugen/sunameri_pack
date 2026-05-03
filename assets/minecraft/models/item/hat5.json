@@ -1,7 +1,7 @@
 {
 	"parent": "item/hat3",
 	"textures": {
-		"4": "items/flower1",
+		"4": "item/flower1",
 		"3": "guns/stripped_spruce_log",
 		"2": "guns/obsidian",
 
