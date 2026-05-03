@@ -1,1440 +1,1293 @@
 {
-  "model": {
-    "type": "range_dispatch",
-    "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "item/wooden_hoe"
-    },
-    "entries": [
-      {
-        "threshold": 1,
-        "model": {
-          "type": "model",
-          "model": "item/bag-9"
-        }
-      },
-      {
-        "threshold": 2,
-        "model": {
-          "type": "model",
-          "model": "item/watergun1"
-        }
-      },
-      {
-        "threshold": 3,
-        "model": {
-          "type": "model",
-          "model": "item/watergun2"
-        }
-      },
-      {
-        "threshold": 4,
-        "model": {
-          "type": "model",
-          "model": "item/hat1"
-        }
-      },
-      {
-        "threshold": 5,
-        "model": {
-          "type": "model",
-          "model": "item/cutlass3"
-        }
-      },
-      {
-        "threshold": 6,
-        "model": {
-          "type": "model",
-          "model": "item/rabitt_hat_b_model"
-        }
-      },
-      {
-        "threshold": 7,
-        "model": {
-          "type": "model",
-          "model": "item/rabitt_hat_d_model"
-        }
-      },
-      {
-        "threshold": 8,
-        "model": {
-          "type": "model",
-          "model": "item/rabitt_hat_p_model"
-        }
-      },
-      {
-        "threshold": 9,
-        "model": {
-          "type": "model",
-          "model": "item/steklo_hat_model"
-        }
-      },
-      {
-        "threshold": 5001,
-        "model": {
-          "type": "model",
-          "model": "item/ammo23"
-        }
-      },
-      {
-        "threshold": 5002,
-        "model": {
-          "type": "model",
-          "model": "item/ammo23"
-        }
-      },
-      {
-        "threshold": 5003,
-        "model": {
-          "type": "model",
-          "model": "item/ammo24"
-        }
-      },
-      {
-        "threshold": 5004,
-        "model": {
-          "type": "model",
-          "model": "item/ammo24"
-        }
-      },
-      {
-        "threshold": 5005,
-        "model": {
-          "type": "model",
-          "model": "item/sword32"
-        }
-      },
-      {
-        "threshold": 5006,
-        "model": {
-          "type": "model",
-          "model": "item/ammo25"
-        }
-      },
-      {
-        "threshold": 5007,
-        "model": {
-          "type": "model",
-          "model": "item/sword34"
-        }
-      },
-      {
-        "threshold": 5008,
-        "model": {
-          "type": "model",
-          "model": "item/ammo26"
-        }
-      },
-      {
-        "threshold": 5009,
-        "model": {
-          "type": "model",
-          "model": "item/sword36"
-        }
-      },
-      {
-        "threshold": 5010,
-        "model": {
-          "type": "model",
-          "model": "item/ammo27"
-        }
-      },
-      {
-        "threshold": 5011,
-        "model": {
-          "type": "model",
-          "model": "item/sword38"
-        }
-      },
-      {
-        "threshold": 5012,
-        "model": {
-          "type": "model",
-          "model": "item/hand1"
-        }
-      },
-      {
-        "threshold": 5013,
-        "model": {
-          "type": "model",
-          "model": "item/sword40"
-        }
-      },
-      {
-        "threshold": 5014,
-        "model": {
-          "type": "model",
-          "model": "item/hand2"
-        }
-      },
-      {
-        "threshold": 5015,
-        "model": {
-          "type": "model",
-          "model": "item/sword42"
-        }
-      },
-      {
-        "threshold": 5016,
-        "model": {
-          "type": "model",
-          "model": "item/hand3"
-        }
-      },
-      {
-        "threshold": 5017,
-        "model": {
-          "type": "model",
-          "model": "item/sword44"
-        }
-      },
-      {
-        "threshold": 5018,
-        "model": {
-          "type": "model",
-          "model": "item/hand4"
-        }
-      },
-      {
-        "threshold": 5019,
-        "model": {
-          "type": "model",
-          "model": "item/sword46"
-        }
-      },
-      {
-        "threshold": 5020,
-        "model": {
-          "type": "model",
-          "model": "item/attach6"
-        }
-      },
-      {
-        "threshold": 5021,
-        "model": {
-          "type": "model",
-          "model": "item/sword48"
-        }
-      },
-      {
-        "threshold": 5022,
-        "model": {
-          "type": "model",
-          "model": "item/choco1"
-        }
-      },
-      {
-        "threshold": 5023,
-        "model": {
-          "type": "model",
-          "model": "item/sword50"
-        }
-      },
-      {
-        "threshold": 5024,
-        "model": {
-          "type": "model",
-          "model": "item/choco2"
-        }
-      },
-      {
-        "threshold": 5025,
-        "model": {
-          "type": "model",
-          "model": "item/musi2"
-        }
-      },
-      {
-        "threshold": 5026,
-        "model": {
-          "type": "model",
-          "model": "item/choco3"
-        }
-      },
-      {
-        "threshold": 5027,
-        "model": {
-          "type": "model",
-          "model": "item/musi4"
-        }
-      },
-      {
-        "threshold": 5028,
-        "model": {
-          "type": "model",
-          "model": "item/choco4"
-        }
-      },
-      {
-        "threshold": 5029,
-        "model": {
-          "type": "model",
-          "model": "item/musi6"
-        }
-      },
-      {
-        "threshold": 5030,
-        "model": {
-          "type": "model",
-          "model": "item/choco5"
-        }
-      },
-      {
-        "threshold": 5031,
-        "model": {
-          "type": "model",
-          "model": "item/tessen2"
-        }
-      },
-      {
-        "threshold": 5032,
-        "model": {
-          "type": "model",
-          "model": "item/choco6"
-        }
-      },
-      {
-        "threshold": 5033,
-        "model": {
-          "type": "model",
-          "model": "item/choco6"
-        }
-      },
-      {
-        "threshold": 5034,
-        "model": {
-          "type": "model",
-          "model": "item/choco7"
-        }
-      },
-      {
-        "threshold": 5035,
-        "model": {
-          "type": "model",
-          "model": "item/choco7"
-        }
-      },
-      {
-        "threshold": 5036,
-        "model": {
-          "type": "model",
-          "model": "item/choco8"
-        }
-      },
-      {
-        "threshold": 5037,
-        "model": {
-          "type": "model",
-          "model": "item/choco8"
-        }
-      },
-      {
-        "threshold": 5038,
-        "model": {
-          "type": "model",
-          "model": "item/choco9"
-        }
-      },
-      {
-        "threshold": 5039,
-        "model": {
-          "type": "model",
-          "model": "item/choco9"
-        }
-      },
-      {
-        "threshold": 5040,
-        "model": {
-          "type": "model",
-          "model": "item/sword53"
-        }
-      },
-      {
-        "threshold": 5041,
-        "model": {
-          "type": "model",
-          "model": "item/kokokara"
-        }
-      },
-      {
-        "threshold": 5042,
-        "model": {
-          "type": "model",
-          "model": "item/sword55"
-        }
-      },
-      {
-        "threshold": 5043,
-        "model": {
-          "type": "model",
-          "model": "item/sword57"
-        }
-      },
-      {
-        "threshold": 5044,
-        "model": {
-          "type": "model",
-          "model": "item/sword19"
-        }
-      },
-      {
-        "threshold": 5045,
-        "model": {
-          "type": "model",
-          "model": "item/sword59"
-        }
-      },
-      {
-        "threshold": 5046,
-        "model": {
-          "type": "model",
-          "model": "item/wing16"
-        }
-      },
-      {
-        "threshold": 5047,
-        "model": {
-          "type": "model",
-          "model": "item/sword61"
-        }
-      },
-      {
-        "threshold": 5048,
-        "model": {
-          "type": "model",
-          "model": "item/wing18"
-        }
-      },
-      {
-        "threshold": 5049,
-        "model": {
-          "type": "model",
-          "model": "item/sword67"
-        }
-      },
-      {
-        "threshold": 5050,
-        "model": {
-          "type": "model",
-          "model": "item/sword62"
-        }
-      },
-      {
-        "threshold": 5051,
-        "model": {
-          "type": "model",
-          "model": "item/sword66"
-        }
-      },
-      {
-        "threshold": 5052,
-        "model": {
-          "type": "model",
-          "model": "item/sword63"
-        }
-      },
-      {
-        "threshold": 5053,
-        "model": {
-          "type": "model",
-          "model": "item/sword65"
-        }
-      },
-      {
-        "threshold": 5054,
-        "model": {
-          "type": "model",
-          "model": "item/sword64"
-        }
-      },
-      {
-        "threshold": 5055,
-        "model": {
-          "type": "model",
-          "model": "item/sword64"
-        }
-      },
-      {
-        "threshold": 5056,
-        "model": {
-          "type": "model",
-          "model": "item/sword65"
-        }
-      },
-      {
-        "threshold": 5057,
-        "model": {
-          "type": "model",
-          "model": "item/sword63"
-        }
-      },
-      {
-        "threshold": 5058,
-        "model": {
-          "type": "model",
-          "model": "item/sword28"
-        }
-      },
-      {
-        "threshold": 5059,
-        "model": {
-          "type": "model",
-          "model": "item/sword62"
-        }
-      },
-      {
-        "threshold": 5060,
-        "model": {
-          "type": "model",
-          "model": "item/robusuta-"
-        }
-      },
-      {
-        "threshold": 5061,
-        "model": {
-          "type": "model",
-          "model": "item/sword68"
-        }
-      },
-      {
-        "threshold": 5062,
-        "model": {
-          "type": "model",
-          "model": "item/gindara"
-        }
-      },
-      {
-        "threshold": 5063,
-        "model": {
-          "type": "model",
-          "model": "item/sword69"
-        }
-      },
-      {
-        "threshold": 5064,
-        "model": {
-          "type": "model",
-          "model": "item/fish2"
-        }
-      },
-      {
-        "threshold": 5065,
-        "model": {
-          "type": "model",
-          "model": "item/bonefish"
-        }
-      },
-      {
-        "threshold": 5066,
-        "model": {
-          "type": "model",
-          "model": "item/coppercoin"
-        }
-      },
-      {
-        "threshold": 5067,
-        "model": {
-          "type": "model",
-          "model": "item/hogeiammo"
-        }
-      },
-      {
-        "threshold": 5068,
-        "model": {
-          "type": "model",
-          "model": "item/stardestroyer"
-        }
-      },
-      {
-        "threshold": 5069,
-        "model": {
-          "type": "model",
-          "model": "item/m1892ammo"
-        }
-      },
-      {
-        "threshold": 5070,
-        "model": {
-          "type": "model",
-          "model": "item/m1892"
-        }
-      },
-      {
-        "threshold": 5071,
-        "model": {
-          "type": "model",
-          "model": "item/m1911ammo2"
-        }
-      },
-      {
-        "threshold": 5072,
-        "model": {
-          "type": "model",
-          "model": "item/m1911ammo3"
-        }
-      },
-      {
-        "threshold": 5073,
-        "model": {
-          "type": "model",
-          "model": "item/emeraldblaster"
-        }
-      },
-      {
-        "threshold": 5074,
-        "model": {
-          "type": "model",
-          "model": "item/stardestroyerammo"
-        }
-      },
-      {
-        "threshold": 5075,
-        "model": {
-          "type": "model",
-          "model": "item/flintlockpistol"
-        }
-      },
-      {
-        "threshold": 5076,
-        "model": {
-          "type": "model",
-          "model": "item/ammo1"
-        }
-      },
-      {
-        "threshold": 5077,
-        "model": {
-          "type": "model",
-          "model": "item/ironbullet"
-        }
-      },
-      {
-        "threshold": 5078,
-        "model": {
-          "type": "model",
-          "model": "item/jet1"
-        }
-      },
-      {
-        "threshold": 5079,
-        "model": {
-          "type": "model",
-          "model": "item/m21"
-        }
-      },
-      {
-        "threshold": 5080,
-        "model": {
-          "type": "model",
-          "model": "item/m21ammo"
-        }
-      },
-      {
-        "threshold": 5081,
-        "model": {
-          "type": "model",
-          "model": "item/jet2"
-        }
-      },
-      {
-        "threshold": 5082,
-        "model": {
-          "type": "model",
-          "model": "item/jet3"
-        }
-      },
-      {
-        "threshold": 5083,
-        "model": {
-          "type": "model",
-          "model": "item/m60"
-        }
-      },
-      {
-        "threshold": 5084,
-        "model": {
-          "type": "model",
-          "model": "item/m60ammo"
-        }
-      },
-      {
-        "threshold": 5085,
-        "model": {
-          "type": "model",
-          "model": "item/ammo21"
-        }
-      },
-      {
-        "threshold": 5086,
-        "model": {
-          "type": "model",
-          "model": "item/m2ammo"
-        }
-      },
-      {
-        "threshold": 5087,
-        "model": {
-          "type": "model",
-          "model": "item/m79"
-        }
-      },
-      {
-        "threshold": 5088,
-        "model": {
-          "type": "model",
-          "model": "item/m2"
-        }
-      },
-      {
-        "threshold": 5089,
-        "model": {
-          "type": "model",
-          "model": "item/m79ammo"
-        }
-      },
-      {
-        "threshold": 5090,
-        "model": {
-          "type": "model",
-          "model": "item/pumpbomberammo"
-        }
-      },
-      {
-        "threshold": 5091,
-        "model": {
-          "type": "model",
-          "model": "item/m500"
-        }
-      },
-      {
-        "threshold": 5092,
-        "model": {
-          "type": "model",
-          "model": "item/pumpbomber"
-        }
-      },
-      {
-        "threshold": 5093,
-        "model": {
-          "type": "model",
-          "model": "item/m500ammo"
-        }
-      },
-      {
-        "threshold": 5094,
-        "model": {
-          "type": "model",
-          "model": "item/hogeiammo"
-        }
-      },
-      {
-        "threshold": 5095,
-        "model": {
-          "type": "model",
-          "model": "item/m1887"
-        }
-      },
-      {
-        "threshold": 5096,
-        "model": {
-          "type": "model",
-          "model": "item/stinger"
-        }
-      },
-      {
-        "threshold": 5097,
-        "model": {
-          "type": "model",
-          "model": "item/m1887ammo"
-        }
-      },
-      {
-        "threshold": 5098,
-        "model": {
-          "type": "model",
-          "model": "item/m60ammo"
-        }
-      },
-      {
-        "threshold": 5099,
-        "model": {
-          "type": "model",
-          "model": "item/m1911"
-        }
-      },
-      {
-        "threshold": 5100,
-        "model": {
-          "type": "model",
-          "model": "item/m1911ammo"
-        }
-      },
-      {
-        "threshold": 5101,
-        "model": {
-          "type": "model",
-          "model": "item/stingerammo"
-        }
-      },
-      {
-        "threshold": 5102,
-        "model": {
-          "type": "model",
-          "model": "item/snowball-launcher"
-        }
-      },
-      {
-        "threshold": 5103,
-        "model": {
-          "type": "model",
-          "model": "item/musket"
-        }
-      },
-      {
-        "threshold": 5104,
-        "model": {
-          "type": "model",
-          "model": "item/m1911_3"
-        }
-      },
-      {
-        "threshold": 5105,
-        "model": {
-          "type": "model",
-          "model": "item/p90"
-        }
-      },
-      {
-        "threshold": 5106,
-        "model": {
-          "type": "model",
-          "model": "item/p90ammo"
-        }
-      },
-      {
-        "threshold": 5107,
-        "model": {
-          "type": "model",
-          "model": "item/surgerifle"
-        }
-      },
-      {
-        "threshold": 5108,
-        "model": {
-          "type": "model",
-          "model": "item/surgerifleammo"
-        }
-      },
-      {
-        "threshold": 5109,
-        "model": {
-          "type": "model",
-          "model": "item/pp-2000"
-        }
-      },
-      {
-        "threshold": 5110,
-        "model": {
-          "type": "model",
-          "model": "item/ammo5"
-        }
-      },
-      {
-        "threshold": 5111,
-        "model": {
-          "type": "model",
-          "model": "item/pp-2000ammo"
-        }
-      },
-      {
-        "threshold": 5112,
-        "model": {
-          "type": "model",
-          "model": "item/ammo4"
-        }
-      },
-      {
-        "threshold": 5113,
-        "model": {
-          "type": "model",
-          "model": "item/sig552"
-        }
-      },
-      {
-        "threshold": 5114,
-        "model": {
-          "type": "model",
-          "model": "item/ammo3"
-        }
-      },
-      {
-        "threshold": 5115,
-        "model": {
-          "type": "model",
-          "model": "item/sig552ammo"
-        }
-      },
-      {
-        "threshold": 5116,
-        "model": {
-          "type": "model",
-          "model": "item/diamondrifle"
-        }
-      },
-      {
-        "threshold": 5117,
-        "model": {
-          "type": "model",
-          "model": "item/hllantern1"
-        }
-      },
-      {
-        "threshold": 5118,
-        "model": {
-          "type": "model",
-          "model": "item/cutlass"
-        }
-      },
-      {
-        "threshold": 5119,
-        "model": {
-          "type": "model",
-          "model": "item/shotgunpistol"
-        }
-      },
-      {
-        "threshold": 5120,
-        "model": {
-          "type": "model",
-          "model": "item/shotgunpistolammo"
-        }
-      },
-      {
-        "threshold": 5121,
-        "model": {
-          "type": "model",
-          "model": "item/flintlockgl"
-        }
-      },
-      {
-        "threshold": 5122,
-        "model": {
-          "type": "model",
-          "model": "item/gunblade"
-        }
-      },
-      {
-        "threshold": 5123,
-        "model": {
-          "type": "model",
-          "model": "item/hllantern2"
-        }
-      },
-      {
-        "threshold": 5124,
-        "model": {
-          "type": "model",
-          "model": "item/gunbladeammo"
-        }
-      },
-      {
-        "threshold": 5125,
-        "model": {
-          "type": "model",
-          "model": "item/gun2"
-        }
-      },
-      {
-        "threshold": 5126,
-        "model": {
-          "type": "model",
-          "model": "item/pumpbomberammo"
-        }
-      },
-      {
-        "threshold": 5127,
-        "model": {
-          "type": "model",
-          "model": "item/harpoon"
-        }
-      },
-      {
-        "threshold": 5128,
-        "model": {
-          "type": "model",
-          "model": "item/speargun"
-        }
-      },
-      {
-        "threshold": 5129,
-        "model": {
-          "type": "model",
-          "model": "item/harpoon"
-        }
-      },
-      {
-        "threshold": 5130,
-        "model": {
-          "type": "model",
-          "model": "item/hogei"
-        }
-      },
-      {
-        "threshold": 5131,
-        "model": {
-          "type": "model",
-          "model": "item/gun4"
-        }
-      },
-      {
-        "threshold": 5132,
-        "model": {
-          "type": "model",
-          "model": "item/goldenfish"
-        }
-      },
-      {
-        "threshold": 5133,
-        "model": {
-          "type": "model",
-          "model": "item/ammo4"
-        }
-      },
-      {
-        "threshold": 5134,
-        "model": {
-          "type": "model",
-          "model": "item/ammo15"
-        }
-      },
-      {
-        "threshold": 5135,
-        "model": {
-          "type": "model",
-          "model": "item/bag-9"
-        }
-      },
-      {
-        "threshold": 5136,
-        "model": {
-          "type": "model",
-          "model": "item/ammo6"
-        }
-      },
-      {
-        "threshold": 5137,
-        "model": {
-          "type": "model",
-          "model": "item/ammo16"
-        }
-      },
-      {
-        "threshold": 5138,
-        "model": {
-          "type": "model",
-          "model": "item/bag-6"
-        }
-      },
-      {
-        "threshold": 5139,
-        "model": {
-          "type": "model",
-          "model": "item/bag-5"
-        }
-      },
-      {
-        "threshold": 5140,
-        "model": {
-          "type": "model",
-          "model": "item/minigun"
-        }
-      },
-      {
-        "threshold": 5141,
-        "model": {
-          "type": "model",
-          "model": "item/attach3"
-        }
-      },
-      {
-        "threshold": 5142,
-        "model": {
-          "type": "model",
-          "model": "item/minigunammo"
-        }
-      },
-      {
-        "threshold": 5143,
-        "model": {
-          "type": "model",
-          "model": "item/bag-1"
-        }
-      },
-      {
-        "threshold": 5144,
-        "model": {
-          "type": "model",
-          "model": "item/candy"
-        }
-      },
-      {
-        "threshold": 5145,
-        "model": {
-          "type": "model",
-          "model": "item/omen7"
-        }
-      },
-      {
-        "threshold": 5146,
-        "model": {
-          "type": "model",
-          "model": "item/bag-8"
-        }
-      },
-      {
-        "threshold": 5147,
-        "model": {
-          "type": "model",
-          "model": "item/bag-4"
-        }
-      },
-      {
-        "threshold": 5148,
-        "model": {
-          "type": "model",
-          "model": "item/bag-2"
-        }
-      },
-      {
-        "threshold": 5149,
-        "model": {
-          "type": "model",
-          "model": "item/ruby"
-        }
-      },
-      {
-        "threshold": 5150,
-        "model": {
-          "type": "model",
-          "model": "item/omen6"
-        }
-      },
-      {
-        "threshold": 5151,
-        "model": {
-          "type": "model",
-          "model": "item/venomstaff"
-        }
-      },
-      {
-        "threshold": 5152,
-        "model": {
-          "type": "model",
-          "model": "item/staff"
-        }
-      },
-      {
-        "threshold": 5153,
-        "model": {
-          "type": "model",
-          "model": "item/starstaff"
-        }
-      },
-      {
-        "threshold": 5154,
-        "model": {
-          "type": "model",
-          "model": "item/flamestaff"
-        }
-      },
-      {
-        "threshold": 5155,
-        "model": {
-          "type": "model",
-          "model": "item/deathstaff"
-        }
-      },
-      {
-        "threshold": 5156,
-        "model": {
-          "type": "model",
-          "model": "item/icestaff"
-        }
-      },
-      {
-        "threshold": 5157,
-        "model": {
-          "type": "model",
-          "model": "item/manaprism"
-        }
-      },
-      {
-        "threshold": 5158,
-        "model": {
-          "type": "model",
-          "model": "item/manaprism2"
-        }
-      },
-      {
-        "threshold": 5159,
-        "model": {
-          "type": "model",
-          "model": "item/manaprism3"
-        }
-      },
-      {
-        "threshold": 5160,
-        "model": {
-          "type": "model",
-          "model": "item/manaprism2"
-        }
-      },
-      {
-        "threshold": 5161,
-        "model": {
-          "type": "model",
-          "model": "item/windstaff"
-        }
-      },
-      {
-        "threshold": 5162,
-        "model": {
-          "type": "model",
-          "model": "item/omen4"
-        }
-      },
-      {
-        "threshold": 5163,
-        "model": {
-          "type": "model",
-          "model": "item/attach2"
-        }
-      },
-      {
-        "threshold": 5164,
-        "model": {
-          "type": "model",
-          "model": "item/attach1"
-        }
-      },
-      {
-        "threshold": 5165,
-        "model": {
-          "type": "model",
-          "model": "item/crimsonclaw"
-        }
-      },
-      {
-        "threshold": 5166,
-        "model": {
-          "type": "model",
-          "model": "item/ammo5"
-        }
-      },
-      {
-        "threshold": 5167,
-        "model": {
-          "type": "model",
-          "model": "item/ammo6"
-        }
-      },
-      {
-        "threshold": 5168,
-        "model": {
-          "type": "model",
-          "model": "item/ammo7"
-        }
-      },
-      {
-        "threshold": 5169,
-        "model": {
-          "type": "model",
-          "model": "item/ammo8"
-        }
-      },
-      {
-        "threshold": 5170,
-        "model": {
-          "type": "model",
-          "model": "item/ammo9"
-        }
-      },
-      {
-        "threshold": 5171,
-        "model": {
-          "type": "model",
-          "model": "item/ammo10"
-        }
-      },
-      {
-        "threshold": 5172,
-        "model": {
-          "type": "model",
-          "model": "item/ammo11"
-        }
-      },
-      {
-        "threshold": 5173,
-        "model": {
-          "type": "model",
-          "model": "item/item1"
-        }
-      },
-      {
-        "threshold": 5174,
-        "model": {
-          "type": "model",
-          "model": "item/item2"
-        }
-      },
-      {
-        "threshold": 5175,
-        "model": {
-          "type": "model",
-          "model": "item/item3"
-        }
-      },
-      {
-        "threshold": 5176,
-        "model": {
-          "type": "model",
-          "model": "item/item4"
-        }
-      },
-      {
-        "threshold": 5177,
-        "model": {
-          "type": "model",
-          "model": "item/item5"
-        }
-      },
-      {
-        "threshold": 5178,
-        "model": {
-          "type": "model",
-          "model": "item/item6"
-        }
-      },
-      {
-        "threshold": 5179,
-        "model": {
-          "type": "model",
-          "model": "item/item7"
-        }
-      },
-      {
-        "threshold": 5180,
-        "model": {
-          "type": "model",
-          "model": "item/item8"
-        }
-      },
-      {
-        "threshold": 5181,
-        "model": {
-          "type": "model",
-          "model": "item/item9"
-        }
-      },
-      {
-        "threshold": 5182,
-        "model": {
-          "type": "model",
-          "model": "item/ammo17"
-        }
-      },
-      {
-        "threshold": 5183,
-        "model": {
-          "type": "model",
-          "model": "item/ammo18"
-        }
-      },
-      {
-        "threshold": 5184,
-        "model": {
-          "type": "model",
-          "model": "item/ammo19"
-        }
-      },
-      {
-        "threshold": 5185,
-        "model": {
-          "type": "model",
-          "model": "item/omen1"
-        }
-      },
-      {
-        "threshold": 5186,
-        "model": {
-          "type": "model",
-          "model": "item/omen5"
-        }
-      },
-      {
-        "threshold": 5187,
-        "model": {
-          "type": "model",
-          "model": "item/omen2"
-        }
-      },
-      {
-        "threshold": 5188,
-        "model": {
-          "type": "model",
-          "model": "item/gunbladeammo"
-        }
-      },
-      {
-        "threshold": 5189,
-        "model": {
-          "type": "model",
-          "model": "item/omen3"
-        }
-      },
-      {
-        "threshold": 5190,
-        "model": {
-          "type": "model",
-          "model": "item/ghoststaff"
-        }
-      },
-      {
-        "threshold": 5191,
-        "model": {
-          "type": "model",
-          "model": "item/ebi"
-        }
-      },
-      {
-        "threshold": 5192,
-        "model": {
-          "type": "model",
-          "model": "item/barahata"
-        }
-      },
-      {
-        "threshold": 5193,
-        "model": {
-          "type": "model",
-          "model": "item/squid"
-        }
-      },
-      {
-        "threshold": 5194,
-        "model": {
-          "type": "model",
-          "model": "item/maguro"
-        }
-      },
-      {
-        "threshold": 5195,
-        "model": {
-          "type": "model",
-          "model": "item/goldenticket"
-        }
-      }
-    ]
-  }
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/wooden_hoe"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "item/bag-9"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "item/watergun1"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "item/watergun2"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "item/hat1"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "item/cutlass3"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "item/rabitt_hat_b_model"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "item/rabitt_hat_d_model"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "item/rabitt_hat_p_model"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "item/steklo_hat_model"
+                }
+            },
+            {
+                "threshold": 5001,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo23"
+                }
+            },
+            {
+                "threshold": 5002,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo23"
+                }
+            },
+            {
+                "threshold": 5003,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo24"
+                }
+            },
+            {
+                "threshold": 5004,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo24"
+                }
+            },
+            {
+                "threshold": 5006,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo25"
+                }
+            },
+            {
+                "threshold": 5008,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo26"
+                }
+            },
+            {
+                "threshold": 5010,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo27"
+                }
+            },
+            {
+                "threshold": 5020,
+                "model": {
+                    "type": "model",
+                    "model": "item/attach6"
+                }
+            },
+            {
+                "threshold": 5022,
+                "model": {
+                    "type": "model",
+                    "model": "item/choco1"
+                }
+            },
+            {
+                "threshold": 5024,
+                "model": {
+                    "type": "model",
+                    "model": "item/choco2"
+                }
+            },
+            {
+                "threshold": 5025,
+                "model": {
+                    "type": "model",
+                    "model": "item/musi2"
+                }
+            },
+            {
+                "threshold": 5026,
+                "model": {
+                    "type": "model",
+                    "model": "item/choco3"
+                }
+            },
+            {
+                "threshold": 5027,
+                "model": {
+                    "type": "model",
+                    "model": "item/musi4"
+                }
+            },
+            {
+                "threshold": 5028,
+                "model": {
+                    "type": "model",
+                    "model": "item/choco4"
+                }
+            },
+            {
+                "threshold": 5029,
+                "model": {
+                    "type": "model",
+                    "model": "item/musi6"
+                }
+            },
+            {
+                "threshold": 5030,
+                "model": {
+                    "type": "model",
+                    "model": "item/choco5"
+                }
+            },
+            {
+                "threshold": 5032,
+                "model": {
+                    "type": "model",
+                    "model": "item/choco6"
+                }
+            },
+            {
+                "threshold": 5033,
+                "model": {
+                    "type": "model",
+                    "model": "item/choco6"
+                }
+            },
+            {
+                "threshold": 5034,
+                "model": {
+                    "type": "model",
+                    "model": "item/choco7"
+                }
+            },
+            {
+                "threshold": 5035,
+                "model": {
+                    "type": "model",
+                    "model": "item/choco7"
+                }
+            },
+            {
+                "threshold": 5036,
+                "model": {
+                    "type": "model",
+                    "model": "item/choco8"
+                }
+            },
+            {
+                "threshold": 5037,
+                "model": {
+                    "type": "model",
+                    "model": "item/choco8"
+                }
+            },
+            {
+                "threshold": 5038,
+                "model": {
+                    "type": "model",
+                    "model": "item/choco9"
+                }
+            },
+            {
+                "threshold": 5039,
+                "model": {
+                    "type": "model",
+                    "model": "item/choco9"
+                }
+            },
+            {
+                "threshold": 5040,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword53"
+                }
+            },
+            {
+                "threshold": 5042,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword55"
+                }
+            },
+            {
+                "threshold": 5043,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword57"
+                }
+            },
+            {
+                "threshold": 5044,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword19"
+                }
+            },
+            {
+                "threshold": 5045,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword59"
+                }
+            },
+            {
+                "threshold": 5046,
+                "model": {
+                    "type": "model",
+                    "model": "item/wing16"
+                }
+            },
+            {
+                "threshold": 5047,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword61"
+                }
+            },
+            {
+                "threshold": 5048,
+                "model": {
+                    "type": "model",
+                    "model": "item/wing18"
+                }
+            },
+            {
+                "threshold": 5049,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword67"
+                }
+            },
+            {
+                "threshold": 5050,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword62"
+                }
+            },
+            {
+                "threshold": 5052,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword63"
+                }
+            },
+            {
+                "threshold": 5053,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword65"
+                }
+            },
+            {
+                "threshold": 5054,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword64"
+                }
+            },
+            {
+                "threshold": 5055,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword64"
+                }
+            },
+            {
+                "threshold": 5056,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword65"
+                }
+            },
+            {
+                "threshold": 5057,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword63"
+                }
+            },
+            {
+                "threshold": 5058,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword28"
+                }
+            },
+            {
+                "threshold": 5059,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword62"
+                }
+            },
+            {
+                "threshold": 5060,
+                "model": {
+                    "type": "model",
+                    "model": "item/robusuta-"
+                }
+            },
+            {
+                "threshold": 5061,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword68"
+                }
+            },
+            {
+                "threshold": 5062,
+                "model": {
+                    "type": "model",
+                    "model": "item/gindara"
+                }
+            },
+            {
+                "threshold": 5063,
+                "model": {
+                    "type": "model",
+                    "model": "item/sword69"
+                }
+            },
+            {
+                "threshold": 5064,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish2"
+                }
+            },
+            {
+                "threshold": 5065,
+                "model": {
+                    "type": "model",
+                    "model": "item/bonefish"
+                }
+            },
+            {
+                "threshold": 5066,
+                "model": {
+                    "type": "model",
+                    "model": "item/coppercoin"
+                }
+            },
+            {
+                "threshold": 5067,
+                "model": {
+                    "type": "model",
+                    "model": "item/hogeiammo"
+                }
+            },
+            {
+                "threshold": 5068,
+                "model": {
+                    "type": "model",
+                    "model": "item/stardestroyer"
+                }
+            },
+            {
+                "threshold": 5069,
+                "model": {
+                    "type": "model",
+                    "model": "item/m1892ammo"
+                }
+            },
+            {
+                "threshold": 5070,
+                "model": {
+                    "type": "model",
+                    "model": "item/m1892"
+                }
+            },
+            {
+                "threshold": 5071,
+                "model": {
+                    "type": "model",
+                    "model": "item/m1911ammo2"
+                }
+            },
+            {
+                "threshold": 5072,
+                "model": {
+                    "type": "model",
+                    "model": "item/m1911ammo3"
+                }
+            },
+            {
+                "threshold": 5073,
+                "model": {
+                    "type": "model",
+                    "model": "item/emeraldblaster"
+                }
+            },
+            {
+                "threshold": 5074,
+                "model": {
+                    "type": "model",
+                    "model": "item/stardestroyerammo"
+                }
+            },
+            {
+                "threshold": 5075,
+                "model": {
+                    "type": "model",
+                    "model": "item/flintlockpistol"
+                }
+            },
+            {
+                "threshold": 5076,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo1"
+                }
+            },
+            {
+                "threshold": 5077,
+                "model": {
+                    "type": "model",
+                    "model": "item/ironbullet"
+                }
+            },
+            {
+                "threshold": 5078,
+                "model": {
+                    "type": "model",
+                    "model": "item/jet1"
+                }
+            },
+            {
+                "threshold": 5079,
+                "model": {
+                    "type": "model",
+                    "model": "item/m21"
+                }
+            },
+            {
+                "threshold": 5080,
+                "model": {
+                    "type": "model",
+                    "model": "item/m21ammo"
+                }
+            },
+            {
+                "threshold": 5081,
+                "model": {
+                    "type": "model",
+                    "model": "item/jet2"
+                }
+            },
+            {
+                "threshold": 5082,
+                "model": {
+                    "type": "model",
+                    "model": "item/jet3"
+                }
+            },
+            {
+                "threshold": 5083,
+                "model": {
+                    "type": "model",
+                    "model": "item/m60"
+                }
+            },
+            {
+                "threshold": 5084,
+                "model": {
+                    "type": "model",
+                    "model": "item/m60ammo"
+                }
+            },
+            {
+                "threshold": 5085,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo21"
+                }
+            },
+            {
+                "threshold": 5086,
+                "model": {
+                    "type": "model",
+                    "model": "item/m2ammo"
+                }
+            },
+            {
+                "threshold": 5087,
+                "model": {
+                    "type": "model",
+                    "model": "item/m79"
+                }
+            },
+            {
+                "threshold": 5088,
+                "model": {
+                    "type": "model",
+                    "model": "item/m2"
+                }
+            },
+            {
+                "threshold": 5089,
+                "model": {
+                    "type": "model",
+                    "model": "item/m79ammo"
+                }
+            },
+            {
+                "threshold": 5090,
+                "model": {
+                    "type": "model",
+                    "model": "item/pumpbomberammo"
+                }
+            },
+            {
+                "threshold": 5091,
+                "model": {
+                    "type": "model",
+                    "model": "item/m500"
+                }
+            },
+            {
+                "threshold": 5092,
+                "model": {
+                    "type": "model",
+                    "model": "item/pumpbomber"
+                }
+            },
+            {
+                "threshold": 5093,
+                "model": {
+                    "type": "model",
+                    "model": "item/m500ammo"
+                }
+            },
+            {
+                "threshold": 5094,
+                "model": {
+                    "type": "model",
+                    "model": "item/hogeiammo"
+                }
+            },
+            {
+                "threshold": 5095,
+                "model": {
+                    "type": "model",
+                    "model": "item/m1887"
+                }
+            },
+            {
+                "threshold": 5096,
+                "model": {
+                    "type": "model",
+                    "model": "item/stinger"
+                }
+            },
+            {
+                "threshold": 5097,
+                "model": {
+                    "type": "model",
+                    "model": "item/m1887ammo"
+                }
+            },
+            {
+                "threshold": 5098,
+                "model": {
+                    "type": "model",
+                    "model": "item/m60ammo"
+                }
+            },
+            {
+                "threshold": 5099,
+                "model": {
+                    "type": "model",
+                    "model": "item/m1911"
+                }
+            },
+            {
+                "threshold": 5100,
+                "model": {
+                    "type": "model",
+                    "model": "item/m1911ammo"
+                }
+            },
+            {
+                "threshold": 5101,
+                "model": {
+                    "type": "model",
+                    "model": "item/stingerammo"
+                }
+            },
+            {
+                "threshold": 5102,
+                "model": {
+                    "type": "model",
+                    "model": "item/snowball-launcher"
+                }
+            },
+            {
+                "threshold": 5103,
+                "model": {
+                    "type": "model",
+                    "model": "item/musket"
+                }
+            },
+            {
+                "threshold": 5104,
+                "model": {
+                    "type": "model",
+                    "model": "item/m1911_3"
+                }
+            },
+            {
+                "threshold": 5105,
+                "model": {
+                    "type": "model",
+                    "model": "item/p90"
+                }
+            },
+            {
+                "threshold": 5106,
+                "model": {
+                    "type": "model",
+                    "model": "item/p90ammo"
+                }
+            },
+            {
+                "threshold": 5107,
+                "model": {
+                    "type": "model",
+                    "model": "item/surgerifle"
+                }
+            },
+            {
+                "threshold": 5108,
+                "model": {
+                    "type": "model",
+                    "model": "item/surgerifleammo"
+                }
+            },
+            {
+                "threshold": 5109,
+                "model": {
+                    "type": "model",
+                    "model": "item/pp-2000"
+                }
+            },
+            {
+                "threshold": 5110,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo5"
+                }
+            },
+            {
+                "threshold": 5111,
+                "model": {
+                    "type": "model",
+                    "model": "item/pp-2000ammo"
+                }
+            },
+            {
+                "threshold": 5112,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo4"
+                }
+            },
+            {
+                "threshold": 5113,
+                "model": {
+                    "type": "model",
+                    "model": "item/sig552"
+                }
+            },
+            {
+                "threshold": 5114,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo3"
+                }
+            },
+            {
+                "threshold": 5115,
+                "model": {
+                    "type": "model",
+                    "model": "item/sig552ammo"
+                }
+            },
+            {
+                "threshold": 5116,
+                "model": {
+                    "type": "model",
+                    "model": "item/diamondrifle"
+                }
+            },
+            {
+                "threshold": 5117,
+                "model": {
+                    "type": "model",
+                    "model": "item/hllantern1"
+                }
+            },
+            {
+                "threshold": 5118,
+                "model": {
+                    "type": "model",
+                    "model": "item/cutlass"
+                }
+            },
+            {
+                "threshold": 5119,
+                "model": {
+                    "type": "model",
+                    "model": "item/shotgunpistol"
+                }
+            },
+            {
+                "threshold": 5120,
+                "model": {
+                    "type": "model",
+                    "model": "item/shotgunpistolammo"
+                }
+            },
+            {
+                "threshold": 5121,
+                "model": {
+                    "type": "model",
+                    "model": "item/flintlockgl"
+                }
+            },
+            {
+                "threshold": 5122,
+                "model": {
+                    "type": "model",
+                    "model": "item/gunblade"
+                }
+            },
+            {
+                "threshold": 5123,
+                "model": {
+                    "type": "model",
+                    "model": "item/hllantern2"
+                }
+            },
+            {
+                "threshold": 5124,
+                "model": {
+                    "type": "model",
+                    "model": "item/gunbladeammo"
+                }
+            },
+            {
+                "threshold": 5126,
+                "model": {
+                    "type": "model",
+                    "model": "item/pumpbomberammo"
+                }
+            },
+            {
+                "threshold": 5127,
+                "model": {
+                    "type": "model",
+                    "model": "item/harpoon"
+                }
+            },
+            {
+                "threshold": 5128,
+                "model": {
+                    "type": "model",
+                    "model": "item/speargun"
+                }
+            },
+            {
+                "threshold": 5129,
+                "model": {
+                    "type": "model",
+                    "model": "item/harpoon"
+                }
+            },
+            {
+                "threshold": 5130,
+                "model": {
+                    "type": "model",
+                    "model": "item/hogei"
+                }
+            },
+            {
+                "threshold": 5131,
+                "model": {
+                    "type": "model",
+                    "model": "item/gun4"
+                }
+            },
+            {
+                "threshold": 5132,
+                "model": {
+                    "type": "model",
+                    "model": "item/goldenfish"
+                }
+            },
+            {
+                "threshold": 5133,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo4"
+                }
+            },
+            {
+                "threshold": 5134,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo15"
+                }
+            },
+            {
+                "threshold": 5135,
+                "model": {
+                    "type": "model",
+                    "model": "item/bag-9"
+                }
+            },
+            {
+                "threshold": 5136,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo6"
+                }
+            },
+            {
+                "threshold": 5137,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo16"
+                }
+            },
+            {
+                "threshold": 5138,
+                "model": {
+                    "type": "model",
+                    "model": "item/bag-6"
+                }
+            },
+            {
+                "threshold": 5139,
+                "model": {
+                    "type": "model",
+                    "model": "item/bag-5"
+                }
+            },
+            {
+                "threshold": 5141,
+                "model": {
+                    "type": "model",
+                    "model": "item/attach3"
+                }
+            },
+            {
+                "threshold": 5142,
+                "model": {
+                    "type": "model",
+                    "model": "item/minigunammo"
+                }
+            },
+            {
+                "threshold": 5143,
+                "model": {
+                    "type": "model",
+                    "model": "item/bag-1"
+                }
+            },
+            {
+                "threshold": 5144,
+                "model": {
+                    "type": "model",
+                    "model": "item/candy"
+                }
+            },
+            {
+                "threshold": 5145,
+                "model": {
+                    "type": "model",
+                    "model": "item/omen7"
+                }
+            },
+            {
+                "threshold": 5146,
+                "model": {
+                    "type": "model",
+                    "model": "item/bag-8"
+                }
+            },
+            {
+                "threshold": 5147,
+                "model": {
+                    "type": "model",
+                    "model": "item/bag-4"
+                }
+            },
+            {
+                "threshold": 5148,
+                "model": {
+                    "type": "model",
+                    "model": "item/bag-2"
+                }
+            },
+            {
+                "threshold": 5149,
+                "model": {
+                    "type": "model",
+                    "model": "item/ruby"
+                }
+            },
+            {
+                "threshold": 5150,
+                "model": {
+                    "type": "model",
+                    "model": "item/omen6"
+                }
+            },
+            {
+                "threshold": 5151,
+                "model": {
+                    "type": "model",
+                    "model": "item/venomstaff"
+                }
+            },
+            {
+                "threshold": 5152,
+                "model": {
+                    "type": "model",
+                    "model": "item/staff"
+                }
+            },
+            {
+                "threshold": 5153,
+                "model": {
+                    "type": "model",
+                    "model": "item/starstaff"
+                }
+            },
+            {
+                "threshold": 5154,
+                "model": {
+                    "type": "model",
+                    "model": "item/flamestaff"
+                }
+            },
+            {
+                "threshold": 5155,
+                "model": {
+                    "type": "model",
+                    "model": "item/deathstaff"
+                }
+            },
+            {
+                "threshold": 5156,
+                "model": {
+                    "type": "model",
+                    "model": "item/icestaff"
+                }
+            },
+            {
+                "threshold": 5157,
+                "model": {
+                    "type": "model",
+                    "model": "item/manaprism"
+                }
+            },
+            {
+                "threshold": 5158,
+                "model": {
+                    "type": "model",
+                    "model": "item/manaprism2"
+                }
+            },
+            {
+                "threshold": 5159,
+                "model": {
+                    "type": "model",
+                    "model": "item/manaprism3"
+                }
+            },
+            {
+                "threshold": 5160,
+                "model": {
+                    "type": "model",
+                    "model": "item/manaprism2"
+                }
+            },
+            {
+                "threshold": 5161,
+                "model": {
+                    "type": "model",
+                    "model": "item/windstaff"
+                }
+            },
+            {
+                "threshold": 5162,
+                "model": {
+                    "type": "model",
+                    "model": "item/omen4"
+                }
+            },
+            {
+                "threshold": 5163,
+                "model": {
+                    "type": "model",
+                    "model": "item/attach2"
+                }
+            },
+            {
+                "threshold": 5164,
+                "model": {
+                    "type": "model",
+                    "model": "item/attach1"
+                }
+            },
+            {
+                "threshold": 5165,
+                "model": {
+                    "type": "model",
+                    "model": "item/crimsonclaw"
+                }
+            },
+            {
+                "threshold": 5166,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo5"
+                }
+            },
+            {
+                "threshold": 5167,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo6"
+                }
+            },
+            {
+                "threshold": 5168,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo7"
+                }
+            },
+            {
+                "threshold": 5169,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo8"
+                }
+            },
+            {
+                "threshold": 5170,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo9"
+                }
+            },
+            {
+                "threshold": 5171,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo10"
+                }
+            },
+            {
+                "threshold": 5172,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo11"
+                }
+            },
+            {
+                "threshold": 5173,
+                "model": {
+                    "type": "model",
+                    "model": "item/item1"
+                }
+            },
+            {
+                "threshold": 5174,
+                "model": {
+                    "type": "model",
+                    "model": "item/item2"
+                }
+            },
+            {
+                "threshold": 5175,
+                "model": {
+                    "type": "model",
+                    "model": "item/item3"
+                }
+            },
+            {
+                "threshold": 5176,
+                "model": {
+                    "type": "model",
+                    "model": "item/item4"
+                }
+            },
+            {
+                "threshold": 5178,
+                "model": {
+                    "type": "model",
+                    "model": "item/item6"
+                }
+            },
+            {
+                "threshold": 5179,
+                "model": {
+                    "type": "model",
+                    "model": "item/item7"
+                }
+            },
+            {
+                "threshold": 5180,
+                "model": {
+                    "type": "model",
+                    "model": "item/item8"
+                }
+            },
+            {
+                "threshold": 5181,
+                "model": {
+                    "type": "model",
+                    "model": "item/item9"
+                }
+            },
+            {
+                "threshold": 5182,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo17"
+                }
+            },
+            {
+                "threshold": 5183,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo18"
+                }
+            },
+            {
+                "threshold": 5184,
+                "model": {
+                    "type": "model",
+                    "model": "item/ammo19"
+                }
+            },
+            {
+                "threshold": 5185,
+                "model": {
+                    "type": "model",
+                    "model": "item/omen1"
+                }
+            },
+            {
+                "threshold": 5187,
+                "model": {
+                    "type": "model",
+                    "model": "item/omen2"
+                }
+            },
+            {
+                "threshold": 5188,
+                "model": {
+                    "type": "model",
+                    "model": "item/gunbladeammo"
+                }
+            },
+            {
+                "threshold": 5189,
+                "model": {
+                    "type": "model",
+                    "model": "item/omen3"
+                }
+            },
+            {
+                "threshold": 5190,
+                "model": {
+                    "type": "model",
+                    "model": "item/ghoststaff"
+                }
+            },
+            {
+                "threshold": 5191,
+                "model": {
+                    "type": "model",
+                    "model": "item/ebi"
+                }
+            },
+            {
+                "threshold": 5192,
+                "model": {
+                    "type": "model",
+                    "model": "item/barahata"
+                }
+            },
+            {
+                "threshold": 5193,
+                "model": {
+                    "type": "model",
+                    "model": "item/squid"
+                }
+            },
+            {
+                "threshold": 5194,
+                "model": {
+                    "type": "model",
+                    "model": "item/maguro"
+                }
+            },
+            {
+                "threshold": 5195,
+                "model": {
+                    "type": "model",
+                    "model": "item/goldenticket"
+                }
+            }
+        ]
+    }
 }
