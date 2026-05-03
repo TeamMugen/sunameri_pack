@@ -7263,5 +7263,29 @@
             }
         ],
         "category": "voice"
+    },
+    "mw2reload.mw2rpk_rel2": {
+        "category": "master",
+        "sounds": [
+            "mw2reload/mw2rpk_rel2"
+        ]
+    },
+    "mw2reload.mw2rpk_rel1": {
+        "category": "master",
+        "sounds": [
+            "mw2reload/mw2rpk_rel1"
+        ]
+    },
+    "mono.mw2reload.mw2rpk_rel2": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2reload/mw2rpk_rel2"
+        ]
+    },
+    "mono.mw2reload.mw2rpk_rel1": {
+        "category": "master",
+        "sounds": [
+            "1mono/mw2reload/mw2rpk_rel1"
+        ]
     }
 }
