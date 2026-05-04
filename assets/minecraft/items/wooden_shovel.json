@@ -4,7 +4,7 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/wooden_shovel"
+            "model": "minecraft:item/wooden_shovel"
         },
         "entries": [
             {

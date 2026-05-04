@@ -5,7 +5,7 @@
         "index": 0,
         "fallback": {
             "type": "minecraft:model",
-            "model": "item/wooden_sword"
+            "model": "minecraft:item/wooden_sword"
         },
         "entries": [
             {

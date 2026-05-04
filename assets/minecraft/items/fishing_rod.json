@@ -1,54 +1,54 @@
 {
-  "model": {
-    "type": "range_dispatch",
-    "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "item/fishing_rod"
-    },
-    "entries": [
-      {
-        "threshold": 1,
-        "model": {
-          "type": "model",
-          "model": "item/fishrod"
-        }
-      },
-      {
-        "threshold": 2,
-        "model": {
-          "type": "model",
-          "model": "item/fishrod2"
-        }
-      },
-      {
-        "threshold": 3,
-        "model": {
-          "type": "model",
-          "model": "item/fishrod3"
-        }
-      },
-      {
-        "threshold": 4,
-        "model": {
-          "type": "model",
-          "model": "item/fishrod4"
-        }
-      },
-      {
-        "threshold": 5,
-        "model": {
-          "type": "model",
-          "model": "item/fishrod5"
-        }
-      },
-      {
-        "threshold": 6,
-        "model": {
-          "type": "model",
-          "model": "item/fishrod6"
-        }
-      }
-    ]
-  }
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/fishing_rod"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "item/fishrod"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "item/fishrod2"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "item/fishrod3"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "item/fishrod4"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "item/fishrod5"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "item/fishrod6"
+                }
+            }
+        ]
+    }
 }
