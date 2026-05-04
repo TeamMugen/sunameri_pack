@@ -1,12 +1,10 @@
 {
 	"parent": "item/hat3",
 	"textures": {
-		"4": "item/flower1",
+		"4": "guns/flower1",
 		"3": "guns/stripped_dark_oak_log",
 		"2": "guns/obsidian",
-
 		"0": "guns/hardened_clay_stained_blue",
-
 		"1": "guns/planks_oak"
 	}
 }

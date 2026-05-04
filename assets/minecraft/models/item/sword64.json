@@ -1,6 +1,6 @@
 {
 	"parent": "item/sword65",
 	"textures": {
-		"sword48": "item/sword48"
+		"sword48": "guns/sword48"
 	}
 }

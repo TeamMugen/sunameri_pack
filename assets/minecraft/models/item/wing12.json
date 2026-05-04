@@ -1,6 +1,6 @@
 {
 	"parent": "item/wing11",
 	"textures": {
-		"wingdata5": "item/wingdata6"
+		"wingdata5": "guns/wingdata6"
 	}
 }
