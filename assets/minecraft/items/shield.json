@@ -1,7 +1,8 @@
 {
     "model": {
         "type": "range_dispatch",
-        "property": "custom_model_data",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
         "fallback": {
             "type": "minecraft:special",
             "model": {
