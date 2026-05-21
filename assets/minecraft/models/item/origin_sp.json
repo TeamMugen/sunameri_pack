@@ -1,6 +1,0 @@
-{
-	"parent": "item/origin",
-	"textures": {
-		"origin": "item/origin_sp"
-	}
-}

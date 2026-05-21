@@ -1,9 +1,0 @@
-{
-	"parent": "item/crow1",
-	"textures": {
-		"0": "guns/anvil_base",
-		"1": "guns/basalt_side",
-		"2": "guns/andesite",
-		"3": "guns/glowstone"
-	}
-}

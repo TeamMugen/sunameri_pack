@@ -1,6 +1,0 @@
-{
-	"parent": "item/cutlass3",
-	"textures": {
-		"cutlass": "guns/cutlass3"
-	}
-}

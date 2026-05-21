@@ -1,7 +1,0 @@
-{
-	"parent": "item/brain1",
-	"textures": {
-		"1": "guns/brain_coral_block",
-		"2": "guns/magenta_terracotta"
-	}
-}

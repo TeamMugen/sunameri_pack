@@ -1,0 +1,6 @@
+{
+	"parent": "item/acc/wing/wing1",
+	"textures": {
+		"texture": "item/acc/wing/wing2"
+	}
+}

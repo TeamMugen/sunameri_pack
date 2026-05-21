@@ -1,9 +1,0 @@
-{
-	"parent": "item/hlhat1",
-	"textures": {
-		"0": "guns/anvil_base",
-		"1": "guns/crying_obsidian",
-		"2": "block/iron_block2",
-		"3": "guns/anvil_base"
-	}
-}

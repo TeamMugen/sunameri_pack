@@ -1,8 +1,0 @@
-{
-	"parent": "item/lantern1",
-	"textures": {
-		"3": "guns/white_shulker_box",
-		"7": "guns/wool_colored_white",
-		"8": "guns/white_concrete"
-	}
-}

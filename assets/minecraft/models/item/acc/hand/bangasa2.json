@@ -1,0 +1,6 @@
+{
+	"parent": "item/acc/hand/bangasa1",
+	"textures": {
+		"0": "block/color/hardened_clay_stained_blue"
+	}
+}

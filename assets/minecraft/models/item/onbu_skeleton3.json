@@ -1,6 +1,0 @@
-{
-	"parent": "item/onbu_skeleton1",
-	"textures": {
-		"0": "baka/skeleton"
-	}
-}

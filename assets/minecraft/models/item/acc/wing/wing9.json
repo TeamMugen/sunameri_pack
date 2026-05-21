@@ -1,0 +1,6 @@
+{
+	"parent": "item/acc/wing/wing7",
+	"textures": {
+		"c0f968f53131f53d": "item/acc/wing/wing9"
+	}
+}
